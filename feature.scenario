@@ -246,18 +246,568 @@ Dado que el hijo adolescente ha creado un espacio privado
 Cuando el hijo adolescente accede al espacio
 Y escribe un mensaje, pensamiento o logro para compartir con sus padres
 Entonces el mensaje se guarda en el espacio privado
-Y el hijo adolescente puede elegir compartir el mensaje con sus padres o mantenerlo privado
-Y los padres pueden recibir notificaciones cuando el hijo adolescente comparte un mensaje.
-Scenario 3: Interacción con los Padres
+Y el hijo adolescente puede elegir comEntrevistas de validación.
+Diseño de entrevistas:
+Primer segmento objetivo (Jóvenes)
+User Flow que se evaluaran:
+Registro en la app
+Interacción del contenido de la app (Artículos y Metas)
+Exploración de recursos de comunicación (Consejos Globales y Chat Privado)
+Preguntas Generales:
+¿Cuál es su nombre completo?
+¿Qué edad tiene?
+¿En qué distrito reside actualmente?
+¿Cómo describirías la relación actual con tus padres?
+¿Cuáles son los principales desafíos que enfrentas al comunicarte con tus padres?
+¿Qué expectativas tienes con respecto a una app diseñada específicamente para mejorar la comunicación con tus padres?
+Preguntas Específicas (Luego de enseñarle la Landing Page y el prototipo Mobile):
+¿Qué opinas sobre el diseño de la “Landing Page”?
+¿Considera que todas las secciones de la app son esenciales para sus necesidades?¿Por qué?
+¿Siente que la app brinda suficiente información?¿Por qué?
+Para el diseño móvil:
+¿Qué es lo más destacado en el apartado del diseño móvil?
+Al momento de registrarse en la app ¿Cree que lo que se solicita en el formulario de registro es suficiente?¿Agregarías más campos y cuáles serían?
+¿Le resulta práctico usar el chat (Consejos Globales y Chat Privado)?
+¿Encuentra que la app es conveniente y fácil de usar?
+Segundo segmento objetivo (Padres)
+User Flow que se evaluaran:Entrevistas de validación.
+Diseño de entrevistas:
+Primer segmento objetivo (Jóvenes)
+User Flow que se evaluaran:
+Registro en la app
+Interacción del contenido de la app (Artículos y Metas)
+Exploración de recursos de comunicación (Consejos Globales y Chat Privado)
+Preguntas Generales:
+¿Cuál es su nombre completo?
+¿Qué edad tiene?
+¿En qué distrito reside actualmente?
+¿Cómo describirías la relación actual con tus padres?
+¿Cuáles son los principales desafíos que enfrentas al comunicarte con tus padres?
+¿Qué expectativas tienes con respecto a una app diseñada específicamente para mejorar la comunicación con tus padres?
+Preguntas Específicas (Luego de enseñarle la Landing Page y el prototipo Mobile):
+¿Qué opinas sobre el diseño de la “Landing Page”?
+¿Considera que todas las secciones de la app son esenciales para sus necesidades?¿Por qué?
+¿Siente que la app brinda suficiente información?¿Por qué?
+Para el diseño móvil:
+¿Qué es lo más destacado en el apartado del diseño móvil?
+Al momento de registrarse en la app ¿Cree que lo que se solicita en el formulario de registro es suficiente?¿Agregarías más campos y cuáles serían?
+¿Le resulta práctico usar el chat (Consejos Globales y Chat Privado)?
+¿Encuentra que la app es conveniente y fácil de usar?
+Segundo segmento objetivo (Padres)
+User Flow que se evaluaran:
+Registro en la app
+Interacción del contenido de la app (Artículos y Recordatorios)
+Exploración de recursos de comunicación (Consejos Globales y Chat Privado)
+Visualización de metas e informes semanales de su hijo
+Preguntas Generales:
+¿Cuál es su nombre completo?
+¿Qué edad tiene?
+¿En qué distrito reside actualmente?
+¿Cómo describirías la relación actual con tus hijos?
+¿Cuáles son los principales desafíos que enfrentas al comunicarte con tus hijos adolescentes?
+¿Qué expectativas tienes con respecto a una app diseñada específicamente para mejorar la comunicación con tus hijos?
+Preguntas Específicas (Luego de enseñarle la Landing Page y el prototipo Mobile):
+¿Qué opinas sobre el diseño de la “Landing Page”?
+¿Considera que todas las secciones de la app son esenciales para sus necesidades?¿Por qué?
+¿Siente que la app brinda suficiente información?¿Por qué?
+Para el diseño móvil:
+¿Qué es lo más destacado en el apartado del diseño móvil?
+Al momento de registrarse en la app ¿Cree que lo que se solicita en el formulario de registro es suficiente?¿Agregarías más campos y cuáles serían?
+¿Le resulta práctico usar el chat (Consejos Globales y Chat Privado)?
+¿Encuentra que la app es conveniente y fácil de usar?
+Entrevistas de validación.
+Diseño de entrevistas:
+Primer segmento objetivo (Jóvenes)
+User Flow que se evaluaran:
+Registro en la app
+Interacción del contenido de la app (Artículos y Metas)
+Exploración de recursos de comunicación (Consejos Globales y Chat Privado)
+Preguntas Generales:
+¿Cuál es su nombre completo?
+¿Qué edad tiene?
+¿En qué distrito reside actualmente?
+¿Cómo describirías la relación actual con tus padres?
+¿Cuáles son los principales desafíos que enfrentas al comunicarte con tus padres?
+¿Qué expectativas tienes con respecto a una app diseñada específicamente para mejorar la comunicación con tus padres?
+Preguntas Específicas (Luego de enseñarle la Landing Page y el prototipo Mobile):
+¿Qué opinas sobre el diseño de la “Landing Page”?
+¿Considera que todas las secciones de la app son esenciales para sus necesidades?¿Por qué?
+¿Siente que la app brinda suficiente información?¿Por qué?
+Para el diseño móvil:
+¿Qué es lo más destacado en el apartado del diseño móvil?
+Al momento de registrarse en la app ¿Cree que lo que se solicita en el formulario de registro es suficiente?¿Agregarías más campos y cuáles serían?
+¿Le resulta práctico usar el chat (Consejos Globales y Chat Privado)?
+¿Encuentra que la app es conveniente y fácil de usar?
+Segundo segmento objetivo (Padres)
+User Flow que se evaluaran:
+Registro en la app
+Interacción del contenido de la app (Artículos y Recordatorios)
+Exploración de recursos de comunicación (Consejos Globales y Chat Privado)
+Visualización de metas e informes semanales de su hijo
+Preguntas Generales:
+¿Cuál es su nombre completo?
+¿Qué edad tiene?
+¿En qué distrito reside actualmente?
+¿Cómo describirías la relación actual con tus hijos?
+¿Cuáles son los principales desafíos que enfrentas al comunicarte con tus hijos adolescentes?
+¿Qué expectativas tienes con respecto a una app diseñada específicamente para mejorar la comunicación con tus hijos?
+Preguntas Específicas (Luego de enseñarle la Landing Page y el prototipo Mobile):
+¿Qué opinas sobre el diseño de la “Landing Page”?
+¿Considera que todas las secciones de la app son esenciales para sus necesidades?¿Por qué?
+¿Siente que la app brinda suficiente información?¿Por qué?
+Para el diseño móvil:
+¿Qué es lo más destacado en el apartado del diseño móvil?
+Al momento de registrarse en la app ¿Cree que lo que se solicita en el formulario de registro es suficiente?¿Agregarías más campos y cuáles serían?
+¿Le resulta práctico usar el chat (Consejos Globales y Chat Privado)?
+¿Encuentra que la app es conveniente y fácil de usar?
+Entrevistas de validación.
+Diseño de entrevistas:
+Primer segmento objetivo (Jóvenes)
+User Flow que se evaluaran:
+Registro en la app
+Interacción del contenido de la app (Artículos y Metas)
+Exploración de recursos de comunicación (Consejos Globales y Chat Privado)
+Preguntas Generales:
+¿Cuál es su nombre completo?
+¿Qué edad tiene?
+¿En qué distrito reside actualmente?
+¿Cómo describirías la relación actual con tus padres?
+¿Cuáles son los principales desafíos que enfrentas al comunicarte con tus padres?
+¿Qué expectativas tienes con respecto a una app diseñada específicamente para mejorar la comunicación con tus padres?
+Preguntas Específicas (Luego de enseñarle la Landing Page y el prototipo Mobile):
+¿Qué opinas sobre el diseño de la “Landing Page”?
+¿Considera que todas las secciones de la app son esenciales para sus necesidades?¿Por qué?
+¿Siente que la app brinda suficiente información?¿Por qué?
+Para el diseño móvil:
+¿Qué es lo más destacado en el apartado del diseño móvil?
+Al momento de registrarse en la app ¿Cree que lo que se solicita en el formulario de registro es suficiente?¿Agregarías más campos y cuáles serían?
+¿Le resulta práctico usar el chat (Consejos Globales y Chat Privado)?
+¿Encuentra que la app es conveniente y fácil de usar?
+Segundo segmento objetivo (Padres)
+User Flow que se evaluaran:
+Registro en la app
+Interacción del contenido de la app (Artículos y Recordatorios)
+Exploración de recursos de comunicación (Consejos Globales y Chat Privado)
+Visualización de metas e informes semanales de su hijo
+Preguntas Generales:
+¿Cuál es su nombre completo?
+¿Qué edad tiene?
+¿En qué distrito reside actualmente?
+¿Cómo describirías la relación actual con tus hijos?Entrevistas de validación.
+Diseño de entrevistas:
+Primer segmento objetivo (Jóvenes)
+User Flow que se evaluaran:
+Registro en la app
+Interacción del contenido de la app (Artículos y Metas)
+Exploración de recursos de comunicación (Consejos Globales y Chat Privado)
+Preguntas Generales:
+¿Cuál es su nombre completo?
+¿Qué edad tiene?
+¿En qué distrito reside actualmente?
+¿Cómo describirías la relación actual con tus padres?
+¿Cuáles son los principales desafíos que enfrentas al comunicarte con tus padres?
+¿Qué expectativas tienes con respecto a una app diseñada específicamente para mejorar la comunicación con tus padres?
+Preguntas Específicas (Luego de enseñarle la Landing Page y el prototipo Mobile):
+¿Qué opinas sobre el diseño de la “Landing Page”?
+¿Considera que todas las secciones de la app son esenciales para sus necesidades?¿Por qué?
+¿Siente que la app brinda suficiente información?¿Por qué?
+Para el diseño móvil:
+¿Qué es lo más destacado en el apartado del diseño móvil?
+Al momento de registrarse en la app ¿Cree que lo que se solicita en el formulario de registro es suficiente?¿Agregarías más campos y cuáles serían?
+¿Le resulta práctico usar el chat (Consejos Globales y Chat Privado)?
+¿Encuentra que la app es conveniente y fácil de usar?
+Segundo segmento objetivo (Padres)
+User Flow que se evaluaran:
+Registro en la app
+Interacción del contenido de la app (Artículos y Recordatorios)
+Exploración de recursos de comunicación (Consejos Globales y Chat Privado)
+Visualización de metas e informes semanales de su hijo
+Preguntas Generales:
+¿Cuál es su nombre completo?
+¿Qué edad tiene?
+¿En qué distrito reside actualmente?
+¿Cómo describirías la relación actual con tus hijos?Entrevistas de validación.
+Diseño de entrevistas:
+Primer segmento objetivo (Jóvenes)
+User Flow que se evaluaran:
+Registro en la app
+Interacción del contenido de la app (Artículos y Metas)
+Exploración de recursos de comunicación (Consejos Globales y Chat Privado)
+Preguntas Generales:
+¿Cuál es su nombre completo?
+¿Qué edad tiene?
+¿En qué distrito reside actualmente?
+¿Cómo describirías la relación actual con tus padres?
+¿Cuáles son los principales desafíos que enfrentas al comunicarte con tus padres?
+¿Qué expectativas tienes con respecto a una app diseñada específicamente para mejorar la comunicación con tus padres?
+Preguntas Específicas (Luego de enseñarle la Landing Page y el prototipo Mobile):
+¿Qué opinas sobre el diseño de la “Landing Page”?
+¿Considera que todas las secciones de la app son esenciales para sus necesidades?¿Por qué?
+¿Siente que la app brinda suficiente información?¿Por qué?
+Para el diseño móvil:
+¿Qué es lo más destacado en el apartado del diseño móvil?
+Al momento de registrarse en la app ¿Cree que lo que se solicita en el formulario de registro es suficiente?¿Agregarías más campos y cuáles serían?
+¿Le resulta práctico usar el chat (Consejos Globales y Chat Privado)?
+¿Encuentra que la app es conveniente y fácil de usar?
+Segundo segmento objetivo (Padres)
+User Flow que se evaluaran:
+Registro en la app
+Interacción del contenido de la app (Artículos y Recordatorios)
+Exploración de recursos de comunicación (Consejos Globales y Chat Privado)
+Visualización de metas e informes semanales de su hijo
+Preguntas Generales:
+¿Cuál es su nombre completo?
+¿Qué edad tiene?
+¿En qué distrito reside actualmente?
+¿Cómo describirías la relación actual con tus hijos?
+¿Cuáles son los principales desafíos que enfrentas al comunicarte con tus hijos adolescentes?
+¿Qué expectativas tienes con respecto a una app diseñada específicamente para mejorar la comunicación con tus hijos?
+Preguntas Específicas (Luego de enseñarle la Landing Page y el prototipo Mobile):
+¿Qué opinas sobre el diseño de la “Landing Page”?
+¿Considera que todas las secciones de la app son esenciales para sus necesidades?¿Por qué?
+¿Siente que la app brinda suficiente información?¿Por qué?
+Para el diseño móvil:
+¿Qué es lo más destacado en el apartado del diseño móvil?
+Al momento de registrarse en la app ¿Cree que lo que se solicita en el formulario de registro es suficiente?¿Agregarías más campos y cuáles serían?
+¿Le resulta práctico usar el chat (Consejos Globales y Chat Privado)?
+¿Encuentra que la app es conveniente y fácil de usar?
+Entrevistas de validación.
+Diseño de entrevistas:
+Primer segmento objetivo (Jóvenes)
+User Flow que se evaluaran:
+Registro en la app
+Interacción del contenido de la app (Artículos y Metas)
+Exploración de recursos de comunicación (Consejos Globales y Chat Privado)
+Preguntas Generales:
+¿Cuál es su nombre completo?
+¿Qué edad tiene?
+¿En qué distrito reside actualmente?
+¿Cómo describirías la relación actual con tus padres?
+¿Cuáles son los principales desafíos que enfrentas al comunicarte con tus padres?
+¿Qué expectativas tienes con respecto a una app diseñada específicamente para mejorar la comunicación con tus padres?
+Preguntas Específicas (Luego de enseñarle la Landing Page y el prototipo Mobile):
+¿Qué opinas sobre el diseño de la “Landing Page”?
+¿Considera que todas las secciones de la app son esenciales para sus necesidades?¿Por qué?
+¿Siente que la app brinda suficiente información?¿Por qué?
+Para el diseño móvil:
+¿Qué es lo más destacado en el apartado del diseño móvil?
+Al momento de registrarse en la app ¿Cree que lo que se solicita en el formulario de registro es suficiente?¿Agregarías más campos y cuáles serían?
+¿Le resulta práctico usar el chat (Consejos Globales y Chat Privado)?
+¿Encuentra que la app es conveniente y fácil de usar?
+Segundo segmento objetivo (Padres)
+User Flow que se evaluaran:
+Registro en la app
+Interacción del contenido de la app (Artículos y Recordatorios)
+Exploración de recursos de comunicación (Consejos Globales y Chat Privado)
+Visualización de metas e informes semanales de su hijo
+Preguntas Generales:
+¿Cuál es su nombre completo?
+¿Qué edad tiene?
+¿En qué distrito reside actualmente?
+¿Cómo describirías la relación actual con tus hijos?Entrevistas de validación.
+Diseño de entrevistas:
+Primer segmento objetivo (Jóvenes)
+User Flow que se evaluaran:
+Registro en la app
+Interacción del contenido de la app (Artículos y Metas)
+Exploración de recursos de comunicación (Consejos Globales y Chat Privado)
+Preguntas Generales:
+¿Cuál es su nombre completo?
+¿Qué edad tiene?
+¿En qué distrito reside actualmente?
+¿Cómo describirías la relación actual con tus padres?
+¿Cuáles son los principales desafíos que enfrentas al comunicarte con tus padres?
+¿Qué expectativas tienes con respecto a una app diseñada específicamente para mejorar la comunicación con tus padres?
+Preguntas Específicas (Luego de enseñarle la Landing Page y el prototipo Mobile):
+¿Qué opinas sobre el diseño de la “Landing Page”?
+¿Considera que todas las secciones de la app son esenciales para sus necesidades?¿Por qué?
+¿Siente que la app brinda suficiente información?¿Por qué?
+Para el diseño móvil:
+¿Qué es lo más destacado en el apartado del diseño móvil?
+Al momento de registrarse en la app ¿Cree que lo que se solicita en el formulario de registro es suficiente?¿Agregarías más campos y cuáles serían?
+¿Le resulta práctico usar el chat (Consejos Globales y Chat Privado)?
+¿Encuentra que la app es conveniente y fácil de usar?
+Segundo segmento objetivo (Padres)
+User Flow que se evaluaran:
+Registro en la app
+Interacción del contenido de la app (Artículos y Recordatorios)
+Exploración de recursos de comunicación (Consejos Globales y Chat Privado)
+Visualización de metas e informes semanales de su hijo
+Preguntas Generales:
+¿Cuál es su nombre completo?
+¿Qué edad tiene?
+¿En qué distrito reside actualmente?
+¿Cómo describirías la relación actual con tus hijos?
+¿Cuáles son los principales desafíos que enfrentas al comunicarte con tus hijos adolescentes?
+¿Qué expectativas tienes con respecto a una app diseñada específicamente para mejorar la comunicación con tus hijos?
+Preguntas Específicas (Luego de enseñarle la Landing Page y el prototipo Mobile):
+¿Qué opinas sobre el diseño de la “Landing Page”?
+¿Considera que todas las secciones de la app son esenciales para sus necesidades?¿Por qué?
+¿Siente que la app brinda suficiente información?¿Por qué?
+Para el diseño móvil:
+¿Qué es lo más destacado en el apartado del diseño móvil?
+Al momento de registrarse en la app ¿Cree que lo que se solicita en el formulario de registro es suficiente?¿Agregarías más campos y cuáles serían?
+¿Le resulta práctico usar el chat (Consejos Globales y Chat Privado)?
+¿Encuentra que la app es conveniente y fácil de usar?
+Entrevistas de validación.
+Diseño de entrevistas:
+Primer segmento objetivo (Jóvenes)
+User Flow que se evaluaran:
+Registro en la app
+Interacción del contenido de la app (Artículos y Metas)
+Exploración de recursos de comunicación (Consejos Globales y Chat Privado)
+Preguntas Generales:
+¿Cuál es su nombre completo?
+¿Qué edad tiene?
+¿En qué distrito reside actualmente?
+¿Cómo describirías la relación actual con tus padres?
+¿Cuáles son los principales desafíos que enfrentas al comunicarte con tus padres?
+¿Qué expectativas tienes con respecto a una app diseñada específicamente para mejorar la comunicación con tus padres?
+Preguntas Específicas (Luego de enseñarle la Landing Page y el prototipo Mobile):
+¿Qué opinas sobre el diseño de la “Landing Page”?
+¿Considera que todas las secciones de la app son esenciales para sus necesidades?¿Por qué?
+¿Siente que la app brinda suficiente información?¿Por qué?
+Para el diseño móvil:
+¿Qué es lo más destacado en el apartado del diseño móvil?
+Al momento de registrarse en la app ¿Cree que lo que se solicita en el formulario de registro es suficiente?¿Agregarías más campos y cuáles serían?
+¿Le resulta práctico usar el chat (Consejos GlobEntrevistas de validación.
+Diseño de entrevistas:
+Primer segmento objetivo (Jóvenes)
+User Flow que se evaluaran:
+Registro en la app
+Interacción del contenido de la app (Artículos y Metas)
+Exploración de recursos de comunicación (Consejos Globales y Chat Privado)
+Preguntas Generales:
+¿Cuál es su nombre completo?
+¿Qué edad tiene?
+¿En qué distrito reside actualmente?
+¿Cómo describirías la relación actual con tus padres?
+¿Cuáles son los principales desafíos que enfrentas al comunicarte con tus padres?
+¿Qué expectativas tienes con respecto a una app diseñada específicamente para mejorar la comunicación con tus padres?
+Preguntas Específicas (Luego de enseñarle la Landing Page y el prototipo Mobile):
+¿Qué opinas sobre el diseño de la “Landing Page”?
+¿Considera que todas las secciones de la app son esenciales para sus necesidades?¿Por qué?
+¿Siente que la app brinda suficiente información?¿Por qué?
+Para el diseño móvil:
+¿Qué es lo más destacado en el apartado del diseño móvil?
+Al momento de registrarse en la app ¿Cree que lo que se solicita en el formulario de registro es suficiente?¿Agregarías más campos y cuáles serían?
+¿Le resulta práctico usar el chat (Consejos Globales y Chat Privado)?
+¿Encuentra que la app es conveniente y fácil de usar?
+Segundo segmento objetivo (Padres)
+User Flow que se evaluaran:
+Registro en la app
+Interacción del contenido de la app (Artículos y Recordatorios)
+Exploración de recursos de comunicación (Consejos Globales y Chat Privado)
+Visualización de metas e informes semanales de su hijo
+Preguntas Generales:
+¿Cuál es su nombre completo?
+¿Qué edad tiene?
+¿En qué distrito reside actualmente?
+¿Cómo describirías la relación actual con tus hijos?
+¿Cuáles son los principales desafíos que enfrentas al comunicarte con tus hijos adolescentes?
+¿Qué expectativas tienes con respecto a una app diseñada específicamente para mejorar la comunicación con tus hijos?
+Preguntas Específicas (Luego de enseñarle la Landing Page y el prototipo Mobile):
+¿Qué opinas sobre el diseño de la “Landing Page”?
+¿Considera que todas las secciones de la app son esenciales para sus necesidades?¿Por qué?
+¿Siente que la app brinda suficiente información?¿Por qué?
+Para el diseño móvil:
+¿Qué es lo más destacado en el apartado del diseño móvil?
+Al momento de registrarse en la app ¿Cree que lo que se solicita en el formulario de registro es suficiente?¿Agregarías más campos y cuáles serían?
+¿Le resulta práctico usar el chat (Consejos Globales y Chat Privado)?
+¿Encuentra que la app es conveniente y fácil de usar?
+Entrevistas de validación.
+Diseño de entrevistas:
+Primer segmento objetivo (Jóvenes)
+User Flow que se evaluaran:
+Registro en la app
+Interacción del contenido de la app (Artículos y Metas)
+Exploración de recursos de comunicación (Consejos Globales y Chat Privado)
+Preguntas Generales:
+¿Cuál es su nombre completo?
+¿Qué edad tiene?
+¿En qué distrito reside actualmente?
+¿Cómo describirías la relación actual con tus padres?
+¿Cuáles son los principales desafíos que enfrentas al comunicarte con tus padres?
+¿Qué expectativas tienes con respecto a una app diseñada específicamente para mejorar la comunicación con tus padres?
+Preguntas Específicas (Luego de enseñarle la Landing Page y el prototipo Mobile):
+¿Qué opinas sobre el diseño de la “Landing Page”?
+¿Considera que todas las secciones de la app son esenciales para sus necesidades?¿Por qué?
+¿Siente que la app brinda suficiente información?¿Por qué?
+Para el diseño móvil:
+¿Qué es lo más destacado en el apartado del diseño móvil?
+Al momento de registrarse en la app ¿Cree que lo que se solicita en el formulario de registro es suficiente?¿Agregarías más campos y cuáles serían?
+¿Le resulta práctico usar el chat (Consejos Globales y Chat Privado)?
+¿Encuentra que la app es conveniente y fácil de usar?
+Segundo segmento objetivo (Padres)
+User Flow que se evaluaran:
+Registro en la app
+Interacción del contenido de la app (Artículos y Recordatorios)
+Exploración de recursos de comunicación (Consejos Globales y Chat Privado)
+Visualización de metas e informes semanales de su hijo
+Preguntas Generales:
+¿Cuál es su nombre completo?
+¿Qué edad tiene?
+¿En qué distrito reside actualmente?
+¿Cómo describirías la relación actual con tus hijos?Entrevistas de validación.
+Diseño de entrevistas:
+Primer segmento objetivo (Jóvenes)
+User Flow que se evaluaran:
+Registro en la app
+Interacción del contenido de la app (Artículos y Metas)
+Exploración de recursos de comunicación (Consejos Globales y Chat Privado)
+Preguntas Generales:
+¿Cuál es su nombre completo?
+¿Qué edad tiene?
+¿En qué distrito reside actualmente?
+¿Cómo describirías la relación actual con tus padres?
+¿Cuáles son los principales desafíos que enfrentas al comunicarte con tus padres?
+¿Qué expectativas tienes con respecto a una app diseñada específicamente para mejorar la comunicación con tus padres?
+Preguntas Específicas (Luego de enseñarle la Landing Page y el prototipo Mobile):
+¿Qué opinas sobre el diseño de la “Landing Page”?
+¿Considera que todas las secciones de la app son esenciales para sus necesidades?¿Por qué?
+¿Siente que la app brinda suficiente información?¿Por qué?
+Para el diseño móvil:
+¿Qué es lo más destacado en el apartado del diseño móvil?
+Al momento de registrarse en la app ¿Cree que lo que se solicita en el formulario de registro es suficiente?¿Agregarías más campos y cuáles serían?
+¿Le resulta práctico usar el chat (Consejos Globales y Chat Privado)?
+¿Encuentra que la app es conveniente y fácil de usar?
+Segundo segmento objetivo (Padres)
+User Flow que se evaluaran:
+Registro en la app
+Interacción del contenido de la app (Artículos y Recordatorios)
+Exploración de recursos de comunicación (Consejos Globales y Chat Privado)
+Visualización de metas e informes semanales de su hijo
+Preguntas Generales:
+¿Cuál es su nombre completo?
+¿Qué edad tiene?
+¿En qué distrito reside actualmente?
+¿Cómo describirías la relación actual con tus hijos?Entrevistas de validación.
+Diseño de entrevistas:
+Primer segmento objetivo (Jóvenes)
+User Flow que se evaluaran:
+Registro en la app
+Interacción del contenido de la app (Artículos y Metas)
+Exploración de recursos de comunicación (Consejos Globales y Chat Privado)
+Preguntas Generales:
+¿Cuál es su nombre completo?
+¿Qué edad tiene?
+¿En qué distrito reside actualmente?
+¿Cómo describirías la relación actual con tus padres?
+¿Cuáles son los principales desafíos que enfrentas al comunicarte con tus padres?
+¿Qué expectativas tienes con respecto a una app diseñada específicamente para mejorar la comunicación con tus padres?
+Preguntas Específicas (Luego de enseñarle la Landing Page y el prototipo Mobile):
+¿Qué opinas sobre el diseño de la “Landing Page”?
+¿Considera que todas las secciones de la app son esenciales para sus necesidades?¿Por qué?
+¿Siente que la app brinda suficiente información?¿Por qué?
+Para el diseño móvil:
+¿Qué es lo más destacado en el apartado del diseño móvil?
+Al momento de registrarse en la app ¿Cree que lo que se solicita en el formulario de registro es suficiente?¿Agregarías más campos y cuáles serían?
+¿Le resulta práctico usar el chat (Consejos Globales y Chat Privado)?
+¿Encuentra que la app es conveniente y fácil de usar?
+Segundo segmento objetivo (Padres)
+User Flow que se evaluaran:
+Registro en la app
+Interacción del contenido de la app (Artículos y Recordatorios)
+Exploración de recursos de comunicación (Consejos Globales y Chat Privado)
+Visualización de metas e informes semanales de su hijo
+Preguntas Generales:
+¿Cuál es su nombre completo?
+¿Qué edad tiene?
+¿En qué distrito reside actualmente?
+¿Cómo describirías la relación actual con tus hijos?
+¿Cuáles son los principales desafíos que enfrentas al comunicarte con tus hijos adolescentes?
+¿Qué expectativas tienes con respecto a una app diseñada específicamente para mejorar la comunicación con tus hijos?
+Preguntas Específicas (Luego de enseñarle la Landing Page y el prototipo Mobile):
+¿Qué opinas sobre el diseño de la “Landing Page”?
+¿Considera que todas las secciones de la app son esenciales para sus necesidades?¿Por qué?
+¿Siente que la app brinda suficiente información?¿Por qué?
+Para el diseño móvil:
+¿Qué es lo más destacado en el apartado del diseño móvil?
+Al momento de registrarse en la app ¿Cree que lo que se solicita en el formulario de registro es suficiente?¿Agregarías más campos y cuáles serían?
+¿Le resulta práctico usar el chat (Consejos Globales y Chat Privado)?
+¿Encuentra que la app es conveniente y fácil de usar?
 
-Dado que el hijo adolescente ha compartido un mensaje en su espacio privado
-Cuando los padres reciben una notificación sobre el mensaje
-Entonces los padres pueden acceder al espacio privado del hijo adolescente
-Y ver el mensaje compartido por el hijo adolescente
-Y los padres pueden responder al mensaje para brindar apoyo y orientación
-Y el hijo adolescente y los padres pueden tener una conversación abierta y confidencial en el espacio privado.
+¿Cuáles son los principales desafíos que enfrentas al comunicarte con tus hijos adolescentes?
+¿Qué expectativas tienes con respecto a una app diseñada específicamente para mejorar la comunicación con tus hijos?
+Preguntas Específicas (Luego de enseñarle la Landing Page y el prototipo Mobile):
+¿Qué opinas sobre el diseño de la “Landing Page”?
+¿Considera que todas las secciones de la app son esenciales para sus necesidades?¿Por qué?
+¿Siente que la app brinda suficiente información?¿Por qué?
+Para el diseño móvil:
+¿Qué es lo más destacado en el apartado del diseño móvil?
+Al momento de registrarse en la app ¿Cree que lo que se solicita en el formulario de registro es suficiente?¿Agregarías más campos y cuáles serían?
+¿Le resulta práctico usar el chat (Consejos Globales y Chat Privado)?
+¿Encuentra que la app es conveniente y fácil de usar?
 
+¿Cuáles son los principales desafíos que enfrentas al comunicarte con tus hijos adolescentes?
+¿Qué expectativas tienes con respecto a una app diseñada específicamente para mejorar la comunicación con tus hijos?
+Preguntas Específicas (Luego de enseñarle la Landing Page y el prototipo Mobile):
+¿Qué opinas sobre el diseño de la “Landing Page”?
+¿Considera que todas las secciones de la app son esenciales para sus necesidades?¿Por qué?
+¿Siente que la app brinda suficiente información?¿Por qué?
+Para el diseño móvil:
+¿Qué es lo más destacado en el apartado del diseño móvil?
+Al momento de registrarse en la app ¿Cree que lo que se solicita en el formulario de registro es suficiente?¿Agregarías más campos y cuáles serían?
+¿Le resulta práctico usar el chat (Consejos Globales y Chat Privado)?
+¿Encuentra que la app es conveniente y fácil de usar?
 
+¿Qué edad tiene?
+¿En qué distrito reside actualmente?
+¿Cómo describirías la relación actual con tus hijos?
+¿Cuáles son los principales desafíos que enfrentas al comunicarte con tus hijos adolescentes?
+¿Qué expectativas tienes con respecto a una app diseñada específicamente para mejorar la comunicación con tus hijos?
+Preguntas Específicas (Luego de enseñarle la Landing Page y el prototipo Mobile):
+¿Qué opinas sobre el diseño de la “Landing Page”?
+¿Considera que todas las secciones de la app son esenciales para sus necesidades?¿Por qué?
+¿Siente que la app brinda suficiente información?¿Por qué?
+Para el diseño móvil:
+¿Qué es lo más destacado en el apartado del diseño móvil?
+Al momento de registrarse en la app ¿Cree que lo que se solicita en el formulario de registro es suficiente?¿Agregarías más campos y cuáles serían?
+¿Le resulta práctico usar el chat (Consejos Globales y Chat Privado)?
+¿Encuentra que la app es conveniente y fácil de usar?
 
+¿Cuáles son los principales desafíos que enfrentas al comunicarte con tus hijos adolescentes?
+¿Qué expectativas tienes con respecto a una app diseñada específicamente para mejorar la comunicación con tus hijos?
+Preguntas Específicas (Luego de enseñarle la Landing Page y el prototipo Mobile):
+¿Qué opinas sobre el diseño de la “Landing Page”?
+¿Considera que todas las secciones de la app son esenciales para sus necesidades?¿Por qué?
+¿Siente que la app brinda suficiente información?¿Por qué?
+Para el diseño móvil:
+¿Qué es lo más destacado en el apartado del diseño móvil?
+Al momento de registrarse en la app ¿Cree que lo que se solicita en el formulario de registro es suficiente?¿Agregarías más campos y cuáles serían?
+¿Le resulta práctico usar el chat (Consejos Globales y Chat Privado)?
+¿Encuentra que la app es conveniente y fácil de usar?
 
-AQUI
+¿Cuáles son los principales desafíos que enfrentas al comunicarte con tus hijos adolescentes?
+¿Qué expectativas tienes con respecto a una app diseñada específicamente para mejorar la comunicación con tus hijos?
+Preguntas Específicas (Luego de enseñarle la Landing Page y el prototipo Mobile):
+¿Qué opinas sobre el diseño de la “Landing Page”?
+¿Considera que todas las secciones de la app son esenciales para sus necesidades?¿Por qué?
+¿Siente que la app brinda suficiente información?¿Por qué?
+Para el diseño móvil:
+¿Qué es lo más destacado en el apartado del diseño móvil?
+Al momento de registrarse en la app ¿Cree que lo que se solicita en el formulario de registro es suficiente?¿Agregarías más campos y cuáles serían?
+¿Le resulta práctico usar el chat (Consejos Globales y Chat Privado)?
+¿Encuentra que la app es conveniente y fácil de usar?
+
+¿Cuáles son los principales desafíos que enfrentas al comunicarte con tus hijos adolescentes?
+¿Qué expectativas tienes con respecto a una app diseñada específicamente para mejorar la comunicación con tus hijos?
+Preguntas Específicas (Luego de enseñarle la Landing Page y el prototipo Mobile):
+¿Qué opinas sobre el diseño de la “Landing Page”?
+¿Considera que todas las secciones de la app son esenciales para sus necesidades?¿Por qué?
+¿Siente que la app brinda suficiente información?¿Por qué?
+Para el diseño móvil:
+¿Qué es lo más destacado en el apartado del diseño móvil?
+Al momento de registrarse en la app ¿Cree que lo que se solicita en el formulario de registro es suficiente?¿Agregarías más campos y cuáles serían?
+¿Le resulta práctico usar el chat (Consejos Globales y Chat Privado)?
+¿Encuentra que la app es conveniente y fácil de usar?
+?
+Preguntas Específicas (Luego de enseñarle la Landing Page y el prototipo Mobile):
+¿Qué opinas sobre el diseño de la “Landing Page”?
+¿Considera que todas las secciones de la app son esenciales para sus necesidades?¿Por qué?
+¿Siente que la app brinda suficiente información?¿Por qué?
+Para el diseño móvil:
+¿Qué es lo más destacado en el apartado del diseño móvil?
+Al momento de registrarse en la app ¿Cree que lo que se solicita en el formulario de registro es suficiente?¿Agregarías más campos y cuáles serían?
+¿Le resulta práctico usar el chat (Consejos Globales y Chat Privado)?
+¿Encuentra que la app es conveniente y fácil de usar?
