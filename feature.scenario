@@ -1,0 +1,24 @@
+Feature: Gestión de Perfiles Personalizados para Hijos Adolescentes
+
+Descripción: Este feature se centra en la funcionalidad que permite a los padres crear, editar y eliminar perfiles personalizados para sus hijos adolescentes en la aplicación. Los perfiles permiten una gestión más efectiva de la información sobre los hijos, lo que facilitará brindar un trato personalizado.
+
+Scenarios:
+
+Scenario 1: Crear un Perfil Personalizado para un Hijo Adolescente
+
+Dado que el padre ha iniciado sesión en la aplicación
+Cuando el padre selecciona la opción de "Crear Perfil" para un hijo adolescente
+Y ingresa el nombre y la fecha de nacimiento del hijo
+Y agrega información adicional opcional, como intereses y preferencias
+Entonces el perfil del hijo adolescente se crea con éxito
+Y la información del perfil se guarda en la base de datos
+Y el padre puede ver el nuevo perfil en la lista de perfiles de hijos adolescentes
+Scenario 2: Editar un Perfil Personalizado de un Hijo Adolescente
+
+Dado que el padre ha iniciado sesión en la aplicación
+Y tiene al menos un perfil de hijo adolescente existente
+Cuando el padre selecciona la opción de "Editar Perfil" para un hijo adolescente
+Y realiza cambios en la información del perfil, como intereses y preferencias
+Entonces los cambios se guardan correctamente en la base de datos
+Y el perfil del hijo adolescente se actualiza con la nueva información
+Y el padre puede ver los cambios reflejados en el perfil actualizado
