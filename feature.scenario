@@ -44,3 +44,215 @@ Dado que el padre ha configurado las notificaciones de logros académicos en la 
 Cuando uno de sus hijos adolescentes logra un hito académico, como una calificación sobresaliente
 Entonces el padre recibe una notificación en la aplicación sobre el logro académico
 Y la notificación incluye detalles sobre el logro y una opción para celebrar el logro
+
+
+FeatureUS03: Establecer Metas y Objetivos
+
+Descripción: Este feature se centra en la implementación de la funcionalidad que permite a los padres y sus hijos adolescentes establecer metas y objetivos juntos. Esto fomenta el crecimiento personal de los adolescentes y permite a los padres celebrar sus logros.
+
+Scenarios:
+
+Scenario 1: Crear una Nueva Meta o Objeto
+
+Dado que el padre ha iniciado sesión en la aplicación
+Cuando el padre accede a la sección de "Metas y Objetivos"
+Y selecciona la opción para crear una nueva meta u objetivo
+Y ingresa los detalles de la meta u objetivo, como el título, la descripción y la fecha límite
+Entonces la meta u objetivo se crea con éxito en la aplicación
+Y se muestra en la lista de metas y objetivos del hijo adolescente
+Y el padre y el hijo adolescente pueden ver y editar la meta u objetivo
+Scenario 2: Seguimiento del Progreso de una Meta u Objetivo
+
+Dado que el padre y el hijo adolescente han establecido una meta u objetivo
+Cuando el hijo adolescente avanza hacia la realización de la meta u objetivo
+Entonces el progreso se actualiza automáticamente en la aplicación
+Y el padre y el hijo adolescente pueden ver el progreso en la aplicación
+Y el padre puede proporcionar apoyo y aliento según sea necesario
+
+
+FeatureUS04: Sugerencias y Consejos para Padres
+
+Descripción: Este feature se centra en la implementación de la funcionalidad que permite a los padres recibir sugerencias y consejos sobre cómo mejorar la comunicación con sus hijos adolescentes. El objetivo es fortalecer la relación y la comprensión mutua entre padres e hijos.
+
+Scenarios:
+
+Scenario 1: Consultar Sugerencias de Comunicación
+
+Dado que el padre ha iniciado sesión en la aplicación
+Cuando el padre accede a la sección de "Sugerencias y Consejos"
+Entonces se muestra una lista de sugerencias y consejos sobre cómo mejorar la comunicación con los hijos adolescentes
+Y el padre puede explorar las sugerencias y consejos disponibles
+Y las sugerencias pueden estar categorizadas por temas, como "Comunicación efectiva" o "Gestión de conflictos".
+Scenario 2: Recibir Sugerencias Personalizadas
+
+Dado que el padre ha utilizado la aplicación durante un tiempo y ha proporcionado información sobre su relación con sus hijos adolescentes
+Cuando el padre accede a la sección de "Sugerencias y Consejos"
+Entonces la aplicación muestra sugerencias personalizadas basadas en la información proporcionada
+Y las sugerencias se adaptan a la situación y las necesidades específicas del padre y sus hijos adolescentes
+
+
+FeatureUS05: Acceso a Recursos Educativos
+
+Descripción: Este feature se centra en la implementación de la funcionalidad que permite a los padres acceder a recursos educativos que les ayuden a entender las preocupaciones típicas de la adolescencia y cómo abordarlas. El objetivo es mejorar la capacidad de apoyo y orientación de los padres hacia sus hijos adolescentes.
+
+Scenarios:
+
+Scenario 1: Explorar Recursos Educativos
+
+Dado que el padre ha iniciado sesión en la aplicación
+Cuando el padre accede a la sección de "Recursos Educativos"
+Entonces se muestra una lista de recursos educativos disponibles, como artículos, videos, podcasts o guías
+Y el padre puede explorar los recursos educativos para obtener información sobre temas de interés, como la adolescencia, la comunicación, la gestión del estrés, etc.
+Scenario 2: Buscar Recursos Específicos
+
+Dado que el padre tiene una pregunta o preocupación específica relacionada con la adolescencia de sus hijos
+Cuando el padre accede a la sección de "Recursos Educativos"
+Y utiliza una función de búsqueda para encontrar recursos relacionados con su pregunta o preocupación
+Entonces se muestran los recursos relevantes que abordan la pregunta o preocupación específica del padre
+Y el padre puede explorar y acceder a los recursos que le interesan.
+
+
+FeatureUS06: Alertas de Cambios Emocionales en los Hijos
+
+Descripción: Este feature se centra en la implementación de la funcionalidad que permite a los padres recibir alertas si sus hijos están experimentando un cambio emocional significativo. El objetivo es brindar apoyo y comprensión en momentos de necesidad.
+
+Scenarios:
+
+Scenario 1: Configurar Alertas de Cambios Emocionales
+
+Dado que el padre ha iniciado sesión en la aplicación
+Cuando el padre accede a la sección de "Configuración de Alertas"
+Y selecciona la opción para configurar alertas de cambios emocionales
+Y establece parámetros como umbrales de cambios emocionales significativos
+Entonces se activa la configuración de alertas y el sistema estará atento a cambios emocionales en el hijo.
+Scenario 2: Detectar Cambio Emocional Significativo
+
+Dado que el padre ha configurado alertas de cambios emocionales
+Cuando el sistema detecta un cambio emocional significativo en el hijo, como un cambio en el estado de ánimo o comportamiento
+Entonces el sistema envía una alerta al padre, notificándolo del cambio emocional
+Y la alerta incluye detalles sobre el cambio emocional detectado
+Y el padre puede tomar medidas para brindar apoyo y comprensión al hijo.
+
+
+FeatureUS07: Programar Recordatorios para Tiempo de Calidad
+
+Descripción: Este feature se centra en la implementación de la funcionalidad que permite a los padres programar recordatorios para pasar tiempo de calidad con cada uno de sus hijos adolescentes. El objetivo es fortalecer los lazos familiares y crear recuerdos valiosos juntos.
+
+Scenarios:
+
+Scenario 1: Programar un Recordatorio para Tiempo de Calidad
+
+Dado que el padre ha iniciado sesión en la aplicación
+Cuando el padre accede a la sección de "Programar Recordatorios"
+Y selecciona la opción para programar un recordatorio para tiempo de calidad con un hijo adolescente en particular
+Y ingresa detalles como la fecha, hora y actividad planificada
+Entonces el recordatorio se programa con éxito en la aplicación
+Y el padre recibe una notificación recordatoria en el momento programado
+Scenario 2: Ver los Recordatorios Programados
+
+Dado que el padre ha programado varios recordatorios para tiempo de calidad
+Cuando el padre accede a la sección de "Recordatorios Programados"
+Entonces se muestra una lista de todos los recordatorios programados, junto con los detalles de cada actividad planificada
+Y el padre puede ver los recordatorios pendientes y pasados
+
+
+Featureus08: Mensajes de Apoyo y Aliento
+
+Descripción: Este feature se centra en la implementación de la funcionalidad que permite a los padres enviar mensajes de apoyo y aliento a sus hijos adolescentes a través de la aplicación. El objetivo es expresar amor y aprecio por los hijos.
+
+Scenarios:
+
+Scenario 1: Enviar un Mensaje de Apoyo y Aliento
+
+Dado que el padre ha iniciado sesión en la aplicación
+Cuando el padre accede a la sección de "Mensajes de Apoyo"
+Y selecciona la opción para enviar un mensaje de apoyo y aliento
+Y selecciona al hijo adolescente al que se dirige el mensaje
+Y escribe el mensaje de apoyo y aliento
+Entonces el mensaje se envía con éxito al hijo adolescente
+Y el hijo adolescente recibe una notificación de que tiene un nuevo mensaje
+Scenario 2: Ver Mensajes de Apoyo y Aliento
+
+Dado que el hijo adolescente ha recibido un mensaje de apoyo y aliento
+Cuando el hijo adolescente accede a la sección de "Mensajes"
+Entonces se muestra el mensaje recibido del padre
+Y el hijo adolescente puede leer el mensaje de apoyo y aliento
+Y el hijo adolescente puede responder al mensaje si lo desea
+
+
+Featureus09: Coordinar Horarios y Actividades Familiares
+
+Descripción: Este feature se centra en la implementación de la funcionalidad que permite a los padres coordinar horarios y actividades familiares de manera efectiva. El objetivo es pasar más tiempo de calidad en familia y fortalecer los vínculos familiares.
+
+Scenarios:
+
+Scenario 1: Crear una Actividad Familiar
+
+Dado que el padre ha iniciado sesión en la aplicación
+Cuando el padre accede a la sección de "Coordinar Actividades Familiares"
+Y selecciona la opción para crear una actividad familiar
+Y ingresa detalles como la fecha, hora, lugar y descripción de la actividad
+Entonces la actividad familiar se crea con éxito en la aplicación
+Y se muestra en el calendario de actividades familiares
+Scenario 2: Ver el Calendario de Actividades Familiares
+
+Dado que el padre ha programado varias actividades familiares
+Cuando el padre o la familia accede al calendario de actividades familiares
+Entonces se muestra un calendario con todas las actividades familiares programadas
+Y el calendario incluye detalles de cada actividad, como la fecha, hora y lugar
+Y la familia puede ver las actividades planificadas en un formato fácil de entender.
+
+
+FeatureUS10: Generar Informes Semanales
+
+Descripción: Este feature se centra en la implementación de la funcionalidad que permite a los padres recibir informes semanales sobre la actividad y progreso de sus hijos en la aplicación. El objetivo es mantener a los padres al tanto de los logros y desafíos de sus hijos.
+
+Scenarios:
+
+Scenario 1: Generar un Informe Semanal
+
+Dado que el padre ha iniciado sesión en la aplicación
+Cuando el padre accede a la sección de "Generar Informe Semanal"
+Y selecciona la opción para generar un informe semanal para un hijo adolescente en particular
+Y elige el período de tiempo para el informe (por ejemplo, la semana pasada)
+Entonces el informe se genera con éxito en la aplicación
+Y se envía al padre como un archivo descargable o se muestra directamente en la aplicación
+Scenario 2: Contenido del Informe Semanal
+
+Dado que el padre ha recibido un informe semanal
+Cuando el padre accede al informe
+Entonces el informe contiene información sobre el progreso y la actividad del hijo adolescente en la aplicación durante el período seleccionado
+Y se destacan logros, actividades realizadas, metas alcanzadas, así como desafíos o áreas que requieren atención
+Y el informe puede incluir gráficos, estadísticas y comentarios del hijo adolescente o del sistema.
+
+
+FeatureUS11: Espacio Privado para los Hijos
+
+Descripción: Este feature se centra en la implementación de la funcionalidad que permite a los hijos adolescentes tener un espacio privado para compartir sus preocupaciones y logros con sus padres. El objetivo es establecer una comunicación más abierta y confidencial.
+
+Scenarios:
+
+Scenario 1: Crear un Espacio Privado
+
+Dado que el hijo adolescente ha iniciado sesión en la aplicación
+Cuando el hijo adolescente accede a la sección de "Espacio Privado"
+Y selecciona la opción para crear un nuevo espacio privado
+Y elige un nombre o título para el espacio (por ejemplo, "Mis Pensamientos")
+Entonces se crea con éxito un espacio privado en la aplicación
+Y el hijo adolescente puede comenzar a compartir sus pensamientos y preocupaciones en este espacio.
+Scenario 2: Compartir Pensamientos y Logros
+
+Dado que el hijo adolescente ha creado un espacio privado
+Cuando el hijo adolescente accede al espacio
+Y escribe un mensaje, pensamiento o logro para compartir con sus padres
+Entonces el mensaje se guarda en el espacio privado
+Y el hijo adolescente puede elegir compartir el mensaje con sus padres o mantenerlo privado
+Y los padres pueden recibir notificaciones cuando el hijo adolescente comparte un mensaje.
+Scenario 3: Interacción con los Padres
+
+Dado que el hijo adolescente ha compartido un mensaje en su espacio privado
+Cuando los padres reciben una notificación sobre el mensaje
+Entonces los padres pueden acceder al espacio privado del hijo adolescente
+Y ver el mensaje compartido por el hijo adolescente
+Y los padres pueden responder al mensaje para brindar apoyo y orientación
+Y el hijo adolescente y los padres pueden tener una conversación abierta y confidencial en el espacio privado.
