@@ -26,7 +26,142 @@ Y el padre puede ver los cambios reflejados en el perfil actualizado
 
 FeatureUS02: Notificaciones de Eventos Importantes
 
-Descripción: Este feature se centra en la implementación de la funcionalidad de notificaciones para eventos importantes en la vida de los hijos adolescentes. Los padres podrán recibir notificaciones relacionadas con cumpleaños, logros académicos, logros deportivos y otras ocasiones especiales de sus hijos.
+Descripción: Este feature se centra en la implementación de la funcionaEntrevistas de validación.
+Diseño de entrevistas:
+Primer segmento objetivo (Jóvenes)
+User Flow que se evaluaran:
+Registro en la app
+Interacción del contenido de la app (Artículos y Metas)
+Exploración de recursos de comunicación (Consejos Globales y Chat Privado)
+Preguntas Generales:
+¿Cuál es su nombre completo?
+¿Qué edad tiene?
+¿En qué distrito reside actualmente?
+¿Cómo describirías la relación actual con tus padres?
+¿Cuáles son los principales desafíos que enfrentas al comunicarte con tus padres?
+¿Qué expectativas tienes con respecto a una app diseñada específicamente para mejorar la comunicación con tus padres?
+Preguntas Específicas (Luego de enseñarle la Landing Page y el prototipo Mobile):
+¿Qué opinas sobre el diseño de la “Landing Page”?
+¿Considera que todas las secciones de la app son esenciales para sus necesidades?¿Por qué?
+¿Siente que la app brinda suficiente información?¿Por qué?
+Para el diseño móvil:
+¿Qué es lo más destacado en el apartado del diseño móvil?
+Al momento de registrarse en la app ¿Cree que lo que se solicita en el formulario de registro es suficiente?¿Agregarías más campos y cuáles serían?
+¿Le resulta práctico usar el chat (Consejos Globales y Chat Privado)?
+¿Encuentra que la app es conveniente y fácil de usar?
+Segundo segmento objetivo (Padres)
+User Flow que se evaluaran:
+Registro en la app
+Interacción del contenido de la app (Artículos y Recordatorios)
+Exploración de recursos de comunicación (Consejos Globales y Chat Privado)
+Visualización de metas e informes semanales de su hijo
+Preguntas Generales:
+¿Cuál es su nombre completo?
+¿Qué edad tiene?
+¿En qué distrito reside actualmente?
+¿Cómo describirías la relación actual con tus hijos?
+¿Cuáles son los principales desafíos que enfrentas al comunicarte con tus hijos adolescentes?
+¿Qué expectativas tienes con respecto a una app diseñada específicamente para mejorar la comunicación con tus hijos?
+Preguntas Específicas (Luego de enseñarle la Landing Page y el prototipo Mobile):
+¿Qué opinas sobre el diseño de la “Landing Page”?Entrevistas de validación.
+Diseño de entrevistas:
+Primer segmento objetivo (Jóvenes)
+User Flow que se evaluaran:
+Registro en la app
+Interacción del contenido de la app (Artículos y Metas)
+Exploración de recursos de comunicación (Consejos Globales y Chat Privado)
+Preguntas Generales:
+¿Cuál es su nombre completo?
+¿Qué edad tiene?
+¿En qué distrito reside actualmente?
+¿Cómo describirías la relación actual con tus padres?
+¿Cuáles son los principales desafíos que enfrentas al comunicarte con tus padres?
+¿Qué expectativas tienes con respecto a una app diseñada específicamente para mejorar la comunicación con tus padres?
+Preguntas Específicas (Luego de enseñarle la Landing Page y el prototipo Mobile):
+¿Qué opinas sobre el diseño de la “Landing Page”?
+¿Considera que todas las secciones de la app son esenciales para sus necesidades?¿Por qué?
+¿Siente que la app brinda suficiente información?¿Por qué?
+Para el diseño móvil:
+¿Qué es lo más destacado en el apartado del diseño móvil?
+Al momento de registrarse en la app ¿Cree que lo que se solicita en el formulario de registro es suficiente?¿Agregarías más campos y cuáles serían?
+¿Le resulta práctico usar el chat (Consejos Globales y Chat Privado)?
+¿Encuentra que la app es conveniente y fácil de usar?
+Segundo segmento objetivo (Padres)
+User Flow que se evaluaran:
+Registro en la app
+Interacción del contenido de la app (Artículos y Recordatorios)
+Exploración de recursos de comunicación (Consejos Globales y Chat Privado)
+Visualización de metas e informes semanales de su hijo
+Preguntas Generales:
+¿Cuál es su nombre completo?
+¿Qué edad tiene?
+¿En qué distrito reside actualmente?
+¿Cómo describirías la relación actual con tus hijos?
+¿Cuáles son los principales desafíos que enfrentas al comunicarte con tus hijos adolescentes?
+¿Qué expectativas tienes con respecto a una app diseñada específicamente para mejorar la comunicación con tus hijos?
+Preguntas Específicas (Luego de enseñarle la Landing Page y el prototipo Mobile):
+¿Qué opinas sobre el diseño de la “Landing Page”?Entrevistas de validación.
+Diseño de entrevistas:
+Primer segmento objetivo (Jóvenes)
+User Flow que se evaluaran:
+Registro en la app
+Interacción del contenido de la app (Artículos y Metas)
+Exploración de recursos de comunicación (Consejos Globales y Chat Privado)
+Preguntas Generales:
+¿Cuál es su nombre completo?
+¿Qué edad tiene?
+¿En qué distrito reside actualmente?
+¿Cómo describirías la relación actual con tus padres?
+¿Cuáles son los principales desafíos que enfrentas al comunicarte con tus padres?
+¿Qué expectativas tienes con respecto a una app diseñada específicamente para mejorar la comunicación con tus padres?
+Preguntas Específicas (Luego de enseñarle la Landing Page y el prototipo Mobile):
+¿Qué opinas sobre el diseño de la “Landing Page”?
+¿Considera que todas las secciones de la app son esenciales para sus necesidades?¿Por qué?
+¿Siente que la app brinda suficiente información?¿Por qué?
+Para el diseño móvil:
+¿Qué es lo más destacado en el apartado del diseño móvil?
+Al momento de registrarse en la app ¿Cree que lo que se solicita en el formulario de registro es suficiente?¿Agregarías más campos y cuáles serían?
+¿Le resulta práctico usar el chat (Consejos Globales y Chat Privado)?
+¿Encuentra que la app es conveniente y fácil de usar?
+Segundo segmento objetivo (Padres)
+User Flow que se evaluaran:
+Registro en la app
+Interacción del contenido de la app (Artículos y Recordatorios)
+Exploración de recursos de comunicación (Consejos Globales y Chat Privado)
+Visualización de metas e informes semanales de su hijo
+Preguntas Generales:
+¿Cuál es su nombre completo?
+¿Qué edad tiene?
+¿En qué distrito reside actualmente?
+¿Cómo describirías la relación actual con tus hijos?
+¿Cuáles son los principales desafíos que enfrentas al comunicarte con tus hijos adolescentes?
+¿Qué expectativas tienes con respecto a una app diseñada específicamente para mejorar la comunicación con tus hijos?
+Preguntas Específicas (Luego de enseñarle la Landing Page y el prototipo Mobile):
+¿Qué opinas sobre el diseño de la “Landing Page”?
+¿Considera que todas las secciones de la app son esenciales para sus necesidades?¿Por qué?
+¿Siente que la app brinda suficiente información?¿Por qué?
+Para el diseño móvil:
+¿Qué es lo más destacado en el apartado del diseño móvil?
+Al momento de registrarse en la app ¿Cree que lo que se solicita en el formulario de registro es suficiente?¿Agregarías más campos y cuáles serían?
+¿Le resulta práctico usar el chat (Consejos Globales y Chat Privado)?
+¿Encuentra que la app es conveniente y fácil de usar?
+
+¿Considera que todas las secciones de la app son esenciales para sus necesidades?¿Por qué?
+¿Siente que la app brinda suficiente información?¿Por qué?
+Para el diseño móvil:
+¿Qué es lo más destacado en el apartado del diseño móvil?
+Al momento de registrarse en la app ¿Cree que lo que se solicita en el formulario de registro es suficiente?¿Agregarías más campos y cuáles serían?
+¿Le resulta práctico usar el chat (Consejos Globales y Chat Privado)?
+¿Encuentra que la app es conveniente y fácil de usar?
+
+¿Considera que todas las secciones de la app son esenciales para sus necesidades?¿Por qué?
+¿Siente que la app brinda suficiente información?¿Por qué?
+Para el diseño móvil:
+¿Qué es lo más destacado en el apartado del diseño móvil?
+Al momento de registrarse en la app ¿Cree que lo que se solicita en el formulario de registro es suficiente?¿Agregarías más campos y cuáles serían?
+¿Le resulta práctico usar el chat (Consejos Globales y Chat Privado)?
+¿Encuentra que la app es conveniente y fácil de usar?
+lidad de notificaciones para eventos importantes en la vida de los hijos adolescentes. Los padres podrán recibir notificaciones relacionadas con cumpleaños, logros académicos, logros deportivos y otras ocasiones especiales de sus hijos.
 
 Scenarios:
 
@@ -810,4 +945,606 @@ Para el diseño móvil:
 ¿Qué es lo más destacado en el apartado del diseño móvil?
 Al momento de registrarse en la app ¿Cree que lo que se solicita en el formulario de registro es suficiente?¿Agregarías más campos y cuáles serían?
 ¿Le resulta práctico usar el chat (Consejos Globales y Chat Privado)?
-¿Encuentra que la app es conveniente y fácil de usar?
+¿Encuentra que la app es conveniente y fácil de usar?1. What: La aplicación ayudará a los jóvenes y padres para mejorar su relación y lazos interpersonales.
+2. When: La aplicación se usará en momentos donde se pueda denotar la poca comunicación e interacción que existe entre los padres e hijos.
+3. Where: Esto puede suceder en los hogares para beneficiar el rendimiento en la escuela, universidad o trabajo.
+4. Who: Padres, primerizos o maduros, jóvenes estudiantes de colegio y universitarios
+5. Why: Los lazos familiares, en especial con los padres, son una parte fundamental para los jóvenes en formación para brindarles seguridad y valores éticos.
+6. How: Se empezará con un cierto público de prueba para tener en cuenta las opiniones de los consumidores y especialistas.
+7. How much: La aplicación será gratuita para el público, con algunos beneficios de pago extra.
+
+
+1. What: La aplicación ayudará a los jóvenes y padres para mejorar su relación y lazos interpersonales.
+2. When: La aplicación se usará en momentos donde se pueda denotar la poca comunicación e interacción que existe entre los padres e hijos.
+3. Where: Esto puede suceder en los hogares para beneficiar el rendimiento en la escuela, universidad o trabajo.
+4. Who: Padres, primerizos o maduros, jóvenes estudiantes de colegio y universitarios
+5. Why: Los lazos familiares, en especial con los padres, son una parte fundamental para los jóvenes en formación para brindarles seguridad y valores éticos.
+6. How: Se empezará con un cierto público de prueba para tener en cuenta las opiniones de los consumidores y especialistas.
+7. How much: La aplicación será gratuita para el público, con algunos beneficios de pago extra.
+
+1. What: La aplicación ayudará a los jóvenes y padres para mejorar su relación y lazos interpersonales.
+2. When: La aplicación se usará en momentos donde se pueda denotar la poca comunicación e interacción que existe entre los padres e hijos.
+3. Where: Esto puede suceder en los hogares para beneficiar el rendimiento en la escuela, universidad o trabajo.
+4. Who: Padres, primerizos o maduros, jóvenes estudiantes de colegio y universitarios
+5. Why: Los lazos familiares, en especial con los padres, son una parte fundamental para los jóvenes en formación para brindarles seguridad y valores éticos.
+6. How: Se empezará con un cierto público de prueba para tener en cuenta las opiniones de los consumidores y especialistas.
+7. How much: La aplicación será gratuita para el público, con algunos beneficios de pago extra.
+
+
+1. What: La aplicación ayudará a los jóvenes y padres para mejorar su relación y lazos interpersonales.
+2. When: La aplicación se usará en momentos donde se pueda denotar la poca comunicación e interacción que existe entre los padres e hijos.
+3. Where: Esto puede suceder en los hogares para beneficiar el rendimiento en la escuela, universidad o trabajo.
+4. Who: Padres, primerizos o maduros, jóvenes estudiantes de colegio y universitarios
+5. Why: Los lazos familiares, en especial con los padres, son una parte fundamental para los jóvenes en formación para brindarles seguridad y valores éticos.
+6. How: Se empezará con un cierto público de prueba para tener en cuenta las opiniones de los consumidores y especialistas.
+7. How much: La aplicación será gratuita para el público, con algunos beneficios de pago extra.
+
+1. What: La aplicación ayudará a los jóvenes y padres para mejorar su relación y lazos interpersonales.
+2. When: La aplicación se usará en momentos donde se pueda denotar la poca comunicación e interacción que existe entre los padres e hijos.
+3. Where: Esto puede suceder en los hogares para beneficiar el rendimiento en la escuela, universidad o trabajo.
+4. Who: Padres, primerizos o maduros, jóvenes estudiantes de colegio y universitarios
+5. Why: Los lazos familiares, en especial con los padres, son una parte fundamental para los jóvenes en formación para brindarles seguridad y valores éticos.
+6. How: Se empezará con un cierto público de prueba para tener en cuenta las opiniones de los consumidores y especialistas.
+7. How much: La aplicación será gratuita para el público, con algunos beneficios de pago extra.
+
+1. What: La aplicación ayudará a los jóvenes y padres para mejorar su relación y lazos interpersonales.
+2. When: La aplicación se usará en momentos donde se pueda denotar la poca comunicación e interacción que existe entre los padres e hijos.
+3. Where: Esto puede suceder en los hogares para beneficiar el rendimiento en la escuela, universidad o trabajo.
+4. Who: Padres, primerizos o maduros, jóvenes estudiantes de colegio y universitarios
+5. Why: Los lazos familiares, en especial con los padres, son una parte fundamental para los jóvenes en formación para brindarles seguridad y valores éticos.
+6. How: Se empezará con un cierto público de prueba para tener en cuenta las opiniones de los consumidores y especialistas.
+7. How much: La aplicación será gratuita para el público, con algunos beneficios de pago extra.
+
+1. What: La aplicación ayudará a los jóvenes y padres para mejorar su relación y lazos interpersonales.
+2. When: La aplicación se usará en momentos donde se pueda denotar la poca comunicación e interacción que existe entre los padres e hijos.
+3. Where: Esto puede suceder en los hogares para beneficiar el rendimiento en la escuela, universidad o trabajo.
+4. Who: Padres, primerizos o maduros, jóvenes estudiantes de colegio y universitarios
+5. Why: Los lazos familiares, en especial con los padres, son una parte fundamental para los jóvenes en formación para brindarles seguridad y valores éticos.
+6. How: Se empezará con un cierto público de prueba para tener en cuenta las opiniones de los consumidores y especialistas.
+7. How much: La aplicación será gratuita para el público, con algunos beneficios de pago extra.
+
+1. What: La aplicación ayudará a los jóvenes y padres para mejorar su relación y lazos interpersonales.
+2. When: La aplicación se usará en momentos donde se pueda denotar la poca comunicación e interacción que existe entre los padres e hijos.
+3. Where: Esto puede suceder en los hogares para beneficiar el rendimiento en la escuela, universidad o trabajo.
+4. Who: Padres, primerizos o maduros, jóvenes estudiantes de colegio y universitarios
+5. Why: Los lazos familiares, en especial con los padres, son una parte fundamental para los jóvenes en formación para brindarles seguridad y valores éticos.
+6. How: Se empezará con un cierto público de prueba para tener en cuenta las opiniones de los consumidores y especialistas.
+7. How much: La aplicación será gratuita para el público, con algunos beneficios de pago extra.
+
+1. What: La aplicación ayudará a los jóvenes y padres para mejorar su relación y lazos interpersonales.
+2. When: La aplicación se usará en momentos donde se pueda denotar la poca comunicación e interacción que existe entre los padres e hijos.
+3. Where: Esto puede suceder en los hogares para beneficiar el rendimiento en la escuela, universidad o trabajo.
+4. Who: Padres, primerizos o maduros, jóvenes estudiantes de colegio y universitarios
+5. Why: Los lazos familiares, en especial con los padres, son una parte fundamental para los jóvenes en formación para brindarles seguridad y valores éticos.
+6. How: Se empezará con un cierto público de prueba para tener en cuenta las opiniones de los consumidores y especialistas.
+7. How much: La aplicación será gratuita para el público, con algunos beneficios de pago extra.
+
+1. What: La aplicación ayudará a los jóvenes y padres para mejorar su relación y lazos interpersonales.
+2. When: La aplicación se usará en momentos donde se pueda denotar la poca comunicación e interacción que existe entre los padres e hijos.
+3. Where: Esto puede suceder en los hogares para beneficiar el rendimiento en la escuela, universidad o trabajo.
+4. Who: Padres, primerizos o maduros, jóvenes estudiantes de colegio y universitarios
+5. Why: Los lazos familiares, en especial con los padres, son una parte fundamental para los jóvenes en formación para brindarles seguridad y valores éticos.
+6. How: Se empezará con un cierto público de prueba para tener en cuenta las opiniones de los consumidores y especialistas.
+7. How much: La aplicación será gratuita para el público, con algunos beneficios de pago extra.
+
+1. What: La aplicación ayudará a los jóvenes y padres para mejorar su relación y lazos interpersonales.
+2. When: La aplicación se usará en momentos donde se pueda denotar la poca comunicación e interacción que existe entre los padres e hijos.
+3. Where: Esto puede suceder en los hogares para beneficiar el rendimiento en la escuela, universidad o trabajo.
+4. Who: Padres, primerizos o maduros, jóvenes estudiantes de colegio y universitarios
+5. Why: Los lazos familiares, en especial con los padres, son una parte fundamental para los jóvenes en formación para brindarles seguridad y valores éticos.
+6. How: Se empezará con un cierto público de prueba para tener en cuenta las opiniones de los consumidores y especialistas.
+7. How much: La aplicación será gratuita para el público, con algunos beneficios de pago extra.
+
+1. What: La aplicación ayudará a los jóvenes y padres para mejorar su relación y lazos interpersonales.
+2. When: La aplicación se usará en momentos donde se pueda denotar la poca comunicación e interacción que existe entre los padres e hijos.
+3. Where: Esto puede suceder en los hogares para beneficiar el rendimiento en la escuela, universidad o trabajo.
+4. Who: Padres, primerizos o maduros, jóvenes estudiantes de colegio y universitarios
+5. Why: Los lazos familiares, en especial con los padres, son una parte fundamental para los jóvenes en formación para brindarles seguridad y valores éticos.
+6. How: Se empezará con un cierto público de prueba para tener en cuenta las opiniones de los consumidores y especialistas.
+7. How much: La aplicación será gratuita para el público, con algunos beneficios de pago extra.
+
+1. What: La aplicación ayudará a los jóvenes y padres para mejorar su relación y lazos interpersonales.
+2. When: La aplicación se usará en momentos donde se pueda denotar la poca comunicación e interacción que existe entre los padres e hijos.
+3. Where: Esto puede suceder en los hogares para beneficiar el rendimiento en la escuela, universidad o trabajo.
+4. Who: Padres, primerizos o maduros, jóvenes estudiantes de colegio y universitarios
+5. Why: Los lazos familiares, en especial con los padres, son una parte fundamental para los jóvenes en formación para brindarles seguridad y valores éticos.
+6. How: Se empezará con un cierto público de prueba para tener en cuenta las opiniones de los consumidores y especialistas.
+7. How much: La aplicación será gratuita para el público, con algunos beneficios de pago extra.
+
+1. What: La aplicación ayudará a los jóvenes y padres para mejorar su relación y lazos interpersonales.
+2. When: La aplicación se usará en momentos donde se pueda denotar la poca comunicación e interacción que existe entre los padres e hijos.
+3. Where: Esto puede suceder en los hogares para beneficiar el rendimiento en la escuela, universidad o trabajo.
+4. Who: Padres, primerizos o maduros, jóvenes estudiantes de colegio y universitarios
+5. Why: Los lazos familiares, en especial con los padres, son una parte fundamental para los jóvenes en formación para brindarles seguridad y valores éticos.
+6. How: Se empezará con un cierto público de prueba para tener en cuenta las opiniones de los consumidores y especialistas.
+7. How much: La aplicación será gratuita para el público, con algunos beneficios de pago extra.
+
+1. What: La aplicación ayudará a los jóvenes y padres para mejorar su relación y lazos interpersonales.
+2. When: La aplicación se usará en momentos donde se pueda denotar la poca comunicación e interacción que existe entre los padres e hijos.
+3. Where: Esto puede suceder en los hogares para beneficiar el rendimiento en la escuela, universidad o trabajo.
+4. Who: Padres, primerizos o maduros, jóvenes estudiantes de colegio y universitarios
+5. Why: Los lazos familiares, en especial con los padres, son una parte fundamental para los jóvenes en formación para brindarles seguridad y valores éticos.
+6. How: Se empezará con un cierto público de prueba para tener en cuenta las opiniones de los consumidores y especialistas.
+7. How much: La aplicación será gratuita para el público, con algunos beneficios de pago extra.
+
+1. What: La aplicación ayudará a los jóvenes y padres para mejorar su relación y lazos interpersonales.
+2. When: La aplicación se usará en momentos donde se pueda denotar la poca comunicación e interacción que existe entre los padres e hijos.
+3. Where: Esto puede suceder en los hogares para beneficiar el rendimiento en la escuela, universidad o trabajo.
+4. Who: Padres, primerizos o maduros, jóvenes estudiantes de colegio y universitarios
+5. Why: Los lazos familiares, en especial con los padres, son una parte fundamental para los jóvenes en formación para brindarles seguridad y valores éticos.
+6. How: Se empezará con un cierto público de prueba para tener en cuenta las opiniones de los consumidores y especialistas.
+7. How much: La aplicación será gratuita para el público, con algunos beneficios de pago extra.
+
+1. What: La aplicación ayudará a los jóvenes y padres para mejorar su relación y lazos interpersonales.
+2. When: La aplicación se usará en momentos donde se pueda denotar la poca comunicación e interacción que existe entre los padres e hijos.
+3. Where: Esto puede suceder en los hogares para beneficiar el rendimiento en la escuela, universidad o trabajo.
+4. Who: Padres, primerizos o maduros, jóvenes estudiantes de colegio y universitarios
+5. Why: Los lazos familiares, en especial con los padres, son una parte fundamental para los jóvenes en formación para brindarles seguridad y valores éticos.
+6. How: Se empezará con un cierto público de prueba para tener en cuenta las opiniones de los consumidores y especialistas.
+7. How much: La aplicación será gratuita para el público, con algunos beneficios de pago extra.
+
+1. What: La aplicación ayudará a los jóvenes y padres para mejorar su relación y lazos interpersonales.
+2. When: La aplicación se usará en momentos donde se pueda denotar la poca comunicación e interacción que existe entre los padres e hijos.
+3. Where: Esto puede suceder en los hogares para beneficiar el rendimiento en la escuela, universidad o trabajo.
+4. Who: Padres, primerizos o maduros, jóvenes estudiantes de colegio y universitarios
+5. Why: Los lazos familiares, en especial con los padres, son una parte fundamental para los jóvenes en formación para brindarles seguridad y valores éticos.
+6. How: Se empezará con un cierto público de prueba para tener en cuenta las opiniones de los consumidores y especialistas.
+7. How much: La aplicación será gratuita para el público, con algunos beneficios de pago extra.
+
+1. What: La aplicación ayudará a los jóvenes y padres para mejorar su relación y lazos interpersonales.
+2. When: La aplicación se usará en momentos donde se pueda denotar la poca comunicación e interacción que existe entre los padres e hijos.
+3. Where: Esto puede suceder en los hogares para beneficiar el rendimiento en la escuela, universidad o trabajo.
+4. Who: Padres, primerizos o maduros, jóvenes estudiantes de colegio y universitarios
+5. Why: Los lazos familiares, en especial con los padres, son una parte fundamental para los jóvenes en formación para brindarles seguridad y valores éticos.
+6. How: Se empezará con un cierto público de prueba para tener en cuenta las opiniones de los consumidores y especialistas.
+7. How much: La aplicación será gratuita para el público, con algunos beneficios de pago extra.
+
+1. What: La aplicación ayudará a los jóvenes y padres para mejorar su relación y lazos interpersonales.
+2. When: La aplicación se usará en momentos donde se pueda denotar la poca comunicación e interacción que existe entre los padres e hijos.
+3. Where: Esto puede suceder en los hogares para beneficiar el rendimiento en la escuela, universidad o trabajo.
+4. Who: Padres, primerizos o maduros, jóvenes estudiantes de colegio y universitarios
+5. Why: Los lazos familiares, en especial con los padres, son una parte fundamental para los jóvenes en formación para brindarles seguridad y valores éticos.
+6. How: Se empezará con un cierto público de prueba para tener en cuenta las opiniones de los consumidores y especialistas.
+7. How much: La aplicación será gratuita para el público, con algunos beneficios de pago extra.
+
+1. What: La aplicación ayudará a los jóvenes y padres para mejorar su relación y lazos interpersonales.
+2. When: La aplicación se usará en momentos donde se pueda denotar la poca comunicación e interacción que existe entre los padres e hijos.
+3. Where: Esto puede suceder en los hogares para beneficiar el rendimiento en la escuela, universidad o trabajo.
+4. Who: Padres, primerizos o maduros, jóvenes estudiantes de colegio y universitarios
+5. Why: Los lazos familiares, en especial con los padres, son una parte fundamental para los jóvenes en formación para brindarles seguridad y valores éticos.
+6. How: Se empezará con un cierto público de prueba para tener en cuenta las opiniones de los consumidores y especialistas.
+7. How much: La aplicación será gratuita para el público, con algunos beneficios de pago extra.
+
+1. What: La aplicación ayudará a los jóvenes y padres para mejorar su relación y lazos interpersonales.
+2. When: La aplicación se usará en momentos donde se pueda denotar la poca comunicación e interacción que existe entre los padres e hijos.
+3. Where: Esto puede suceder en los hogares para beneficiar el rendimiento en la escuela, universidad o trabajo.
+4. Who: Padres, primerizos o maduros, jóvenes estudiantes de colegio y universitarios
+5. Why: Los lazos familiares, en especial con los padres, son una parte fundamental para los jóvenes en formación para brindarles seguridad y valores éticos.
+6. How: Se empezará con un cierto público de prueba para tener en cuenta las opiniones de los consumidores y especialistas.
+7. How much: La aplicación será gratuita para el público, con algunos beneficios de pago extra.
+
+1. What: La aplicación ayudará a los jóvenes y padres para mejorar su relación y lazos interpersonales.
+2. When: La aplicación se usará en momentos donde se pueda denotar la poca comunicación e interacción que existe entre los padres e hijos.
+3. Where: Esto puede suceder en los hogares para beneficiar el rendimiento en la escuela, universidad o trabajo.
+4. Who: Padres, primerizos o maduros, jóvenes estudiantes de colegio y universitarios
+5. Why: Los lazos familiares, en especial con los padres, son una parte fundamental para los jóvenes en formación para brindarles seguridad y valores éticos.
+6. How: Se empezará con un cierto público de prueba para tener en cuenta las opiniones de los consumidores y especialistas.
+7. How much: La aplicación será gratuita para el público, con algunos beneficios de pago extra.
+
+1. What: La aplicación ayudará a los jóvenes y padres para mejorar su relación y lazos interpersonales.
+2. When: La aplicación se usará en momentos donde se pueda denotar la poca comunicación e interacción que existe entre los padres e hijos.
+3. Where: Esto puede suceder en los hogares para beneficiar el rendimiento en la escuela, universidad o trabajo.
+4. Who: Padres, primerizos o maduros, jóvenes estudiantes de colegio y universitarios
+5. Why: Los lazos familiares, en especial con los padres, son una parte fundamental para los jóvenes en formación para brindarles seguridad y valores éticos.
+6. How: Se empezará con un cierto público de prueba para tener en cuenta las opiniones de los consumidores y especialistas.
+7. How much: La aplicación será gratuita para el público, con algunos beneficios de pago extra.
+
+1. What: La aplicación ayudará a los jóvenes y padres para mejorar su relación y lazos interpersonales.
+2. When: La aplicación se usará en momentos donde se pueda denotar la poca comunicación e interacción que existe entre los padres e hijos.
+3. Where: Esto puede suceder en los hogares para beneficiar el rendimiento en la escuela, universidad o trabajo.
+4. Who: Padres, primerizos o maduros, jóvenes estudiantes de colegio y universitarios
+5. Why: Los lazos familiares, en especial con los padres, son una parte fundamental para los jóvenes en formación para brindarles seguridad y valores éticos.
+6. How: Se empezará con un cierto público de prueba para tener en cuenta las opiniones de los consumidores y especialistas.
+7. How much: La aplicación será gratuita para el público, con algunos beneficios de pago extra.
+
+1. What: La aplicación ayudará a los jóvenes y padres para mejorar su relación y lazos interpersonales.
+2. When: La aplicación se usará en momentos donde se pueda denotar la poca comunicación e interacción que existe entre los padres e hijos.
+3. Where: Esto puede suceder en los hogares para beneficiar el rendimiento en la escuela, universidad o trabajo.
+4. Who: Padres, primerizos o maduros, jóvenes estudiantes de colegio y universitarios
+5. Why: Los lazos familiares, en especial con los padres, son una parte fundamental para los jóvenes en formación para brindarles seguridad y valores éticos.
+6. How: Se empezará con un cierto público de prueba para tener en cuenta las opiniones de los consumidores y especialistas.
+7. How much: La aplicación será gratuita para el público, con algunos beneficios de pago extra.
+
+1. What: La aplicación ayudará a los jóvenes y padres para mejorar su relación y lazos interpersonales.
+2. When: La aplicación se usará en momentos donde se pueda denotar la poca comunicación e interacción que existe entre los padres e hijos.
+3. Where: Esto puede suceder en los hogares para beneficiar el rendimiento en la escuela, universidad o trabajo.
+4. Who: Padres, primerizos o maduros, jóvenes estudiantes de colegio y universitarios
+5. Why: Los lazos familiares, en especial con los padres, son una parte fundamental para los jóvenes en formación para brindarles seguridad y valores éticos.
+6. How: Se empezará con un cierto público de prueba para tener en cuenta las opiniones de los consumidores y especialistas.
+7. How much: La aplicación será gratuita para el público, con algunos beneficios de pago extra.
+
+1. What: La aplicación ayudará a los jóvenes y padres para mejorar su relación y lazos interpersonales.
+2. When: La aplicación se usará en momentos donde se pueda denotar la poca comunicación e interacción que existe entre los padres e hijos.
+3. Where: Esto puede suceder en los hogares para beneficiar el rendimiento en la escuela, universidad o trabajo.
+4. Who: Padres, primerizos o maduros, jóvenes estudiantes de colegio y universitarios
+5. Why: Los lazos familiares, en especial con los padres, son una parte fundamental para los jóvenes en formación para brindarles seguridad y valores éticos.
+6. How: Se empezará con un cierto público de prueba para tener en cuenta las opiniones de los consumidores y especialistas.
+7. How much: La aplicación será gratuita para el público, con algunos beneficios de pago extra.
+
+1. What: La aplicación ayudará a los jóvenes y padres para mejorar su relación y lazos interpersonales.
+2. When: La aplicación se usará en momentos donde se pueda denotar la poca comunicación e interacción que existe entre los padres e hijos.
+3. Where: Esto puede suceder en los hogares para beneficiar el rendimiento en la escuela, universidad o trabajo.
+4. Who: Padres, primerizos o maduros, jóvenes estudiantes de colegio y universitarios
+5. Why: Los lazos familiares, en especial con los padres, son una parte fundamental para los jóvenes en formación para brindarles seguridad y valores éticos.
+6. How: Se empezará con un cierto público de prueba para tener en cuenta las opiniones de los consumidores y especialistas.
+7. How much: La aplicación será gratuita para el público, con algunos beneficios de pago extra.
+
+1. What: La aplicación ayudará a los jóvenes y padres para mejorar su relación y lazos interpersonales.
+2. When: La aplicación se usará en momentos donde se pueda denotar la poca comunicación e interacción que existe entre los padres e hijos.
+3. Where: Esto puede suceder en los hogares para beneficiar el rendimiento en la escuela, universidad o trabajo.
+4. Who: Padres, primerizos o maduros, jóvenes estudiantes de colegio y universitarios
+5. Why: Los lazos familiares, en especial con los padres, son una parte fundamental para los jóvenes en formación para brindarles seguridad y valores éticos.
+6. How: Se empezará con un cierto público de prueba para tener en cuenta las opiniones de los consumidores y especialistas.
+7. How much: La aplicación será gratuita para el público, con algunos beneficios de pago extra.
+
+1. What: La aplicación ayudará a los jóvenes y padres para mejorar su relación y lazos interpersonales.
+2. When: La aplicación se usará en momentos donde se pueda denotar la poca comunicación e interacción que existe entre los padres e hijos.
+3. Where: Esto puede suceder en los hogares para beneficiar el rendimiento en la escuela, universidad o trabajo.
+4. Who: Padres, primerizos o maduros, jóvenes estudiantes de colegio y universitarios
+5. Why: Los lazos familiares, en especial con los padres, son una parte fundamental para los jóvenes en formación para brindarles seguridad y valores éticos.
+6. How: Se empezará con un cierto público de prueba para tener en cuenta las opiniones de los consumidores y especialistas.
+7. How much: La aplicación será gratuita para el público, con algunos beneficios de pago extra.
+
+1. What: La aplicación ayudará a los jóvenes y padres para mejorar su relación y lazos interpersonales.
+2. When: La aplicación se usará en momentos donde se pueda denotar la poca comunicación e interacción que existe entre los padres e hijos.
+3. Where: Esto puede suceder en los hogares para beneficiar el rendimiento en la escuela, universidad o trabajo.
+4. Who: Padres, primerizos o maduros, jóvenes estudiantes de colegio y universitarios
+5. Why: Los lazos familiares, en especial con los padres, son una parte fundamental para los jóvenes en formación para brindarles seguridad y valores éticos.
+6. How: Se empezará con un cierto público de prueba para tener en cuenta las opiniones de los consumidores y especialistas.
+7. How much: La aplicación será gratuita para el público, con algunos beneficios de pago extra.
+
+1. What: La aplicación ayudará a los jóvenes y padres para mejorar su relación y lazos interpersonales.
+2. When: La aplicación se usará en momentos donde se pueda denotar la poca comunicación e interacción que existe entre los padres e hijos.
+3. Where: Esto puede suceder en los hogares para beneficiar el rendimiento en la escuela, universidad o trabajo.
+4. Who: Padres, primerizos o maduros, jóvenes estudiantes de colegio y universitarios
+5. Why: Los lazos familiares, en especial con los padres, son una parte fundamental para los jóvenes en formación para brindarles seguridad y valores éticos.
+6. How: Se empezará con un cierto público de prueba para tener en cuenta las opiniones de los consumidores y especialistas.
+7. How much: La aplicación será gratuita para el público, con algunos beneficios de pago extra.
+
+1. What: La aplicación ayudará a los jóvenes y padres para mejorar su relación y lazos interpersonales.
+2. When: La aplicación se usará en momentos donde se pueda denotar la poca comunicación e interacción que existe entre los padres e hijos.
+3. Where: Esto puede suceder en los hogares para beneficiar el rendimiento en la escuela, universidad o trabajo.
+4. Who: Padres, primerizos o maduros, jóvenes estudiantes de colegio y universitarios
+5. Why: Los lazos familiares, en especial con los padres, son una parte fundamental para los jóvenes en formación para brindarles seguridad y valores éticos.
+6. How: Se empezará con un cierto público de prueba para tener en cuenta las opiniones de los consumidores y especialistas.
+7. How much: La aplicación será gratuita para el público, con algunos beneficios de pago extra.
+
+1. What: La aplicación ayudará a los jóvenes y padres para mejorar su relación y lazos interpersonales.
+2. When: La aplicación se usará en momentos donde se pueda denotar la poca comunicación e interacción que existe entre los padres e hijos.
+3. Where: Esto puede suceder en los hogares para beneficiar el rendimiento en la escuela, universidad o trabajo.
+4. Who: Padres, primerizos o maduros, jóvenes estudiantes de colegio y universitarios
+5. Why: Los lazos familiares, en especial con los padres, son una parte fundamental para los jóvenes en formación para brindarles seguridad y valores éticos.
+6. How: Se empezará con un cierto público de prueba para tener en cuenta las opiniones de los consumidores y especialistas.
+7. How much: La aplicación será gratuita para el público, con algunos beneficios de pago extra.
+
+1. What: La aplicación ayudará a los jóvenes y padres para mejorar su relación y lazos interpersonales.
+2. When: La aplicación se usará en momentos donde se pueda denotar la poca comunicación e interacción que existe entre los padres e hijos.
+3. Where: Esto puede suceder en los hogares para beneficiar el rendimiento en la escuela, universidad o trabajo.
+4. Who: Padres, primerizos o maduros, jóvenes estudiantes de colegio y universitarios
+5. Why: Los lazos familiares, en especial con los padres, son una parte fundamental para los jóvenes en formación para brindarles seguridad y valores éticos.
+6. How: Se empezará con un cierto público de prueba para tener en cuenta las opiniones de los consumidores y especialistas.
+7. How much: La aplicación será gratuita para el público, con algunos beneficios de pago extra.
+
+1. What: La aplicación ayudará a los jóvenes y padres para mejorar su relación y lazos interpersonales.
+2. When: La aplicación se usará en momentos donde se pueda denotar la poca comunicación e interacción que existe entre los padres e hijos.
+3. Where: Esto puede suceder en los hogares para beneficiar el rendimiento en la escuela, universidad o trabajo.
+4. Who: Padres, primerizos o maduros, jóvenes estudiantes de colegio y universitarios
+5. Why: Los lazos familiares, en especial con los padres, son una parte fundamental para los jóvenes en formación para brindarles seguridad y valores éticos.
+6. How: Se empezará con un cierto público de prueba para tener en cuenta las opiniones de los consumidores y especialistas.
+7. How much: La aplicación será gratuita para el público, con algunos beneficios de pago extra.
+
+1. What: La aplicación ayudará a los jóvenes y padres para mejorar su relación y lazos interpersonales.
+2. When: La aplicación se usará en momentos donde se pueda denotar la poca comunicación e interacción que existe entre los padres e hijos.
+3. Where: Esto puede suceder en los hogares para beneficiar el rendimiento en la escuela, universidad o trabajo.
+4. Who: Padres, primerizos o maduros, jóvenes estudiantes de colegio y universitarios
+5. Why: Los lazos familiares, en especial con los padres, son una parte fundamental para los jóvenes en formación para brindarles seguridad y valores éticos.
+6. How: Se empezará con un cierto público de prueba para tener en cuenta las opiniones de los consumidores y especialistas.
+7. How much: La aplicación será gratuita para el público, con algunos beneficios de pago extra.
+
+1. What: La aplicación ayudará a los jóvenes y padres para mejorar su relación y lazos interpersonales.
+2. When: La aplicación se usará en momentos donde se pueda denotar la poca comunicación e interacción que existe entre los padres e hijos.
+3. Where: Esto puede suceder en los hogares para beneficiar el rendimiento en la escuela, universidad o trabajo.
+4. Who: Padres, primerizos o maduros, jóvenes estudiantes de colegio y universitarios
+5. Why: Los lazos familiares, en especial con los padres, son una parte fundamental para los jóvenes en formación para brindarles seguridad y valores éticos.
+6. How: Se empezará con un cierto público de prueba para tener en cuenta las opiniones de los consumidores y especialistas.
+7. How much: La aplicación será gratuita para el público, con algunos beneficios de pago extra.
+
+1. What: La aplicación ayudará a los jóvenes y padres para mejorar su relación y lazos interpersonales.
+2. When: La aplicación se usará en momentos donde se pueda denotar la poca comunicación e interacción que existe entre los padres e hijos.
+3. Where: Esto puede suceder en los hogares para beneficiar el rendimiento en la escuela, universidad o trabajo.
+4. Who: Padres, primerizos o maduros, jóvenes estudiantes de colegio y universitarios
+5. Why: Los lazos familiares, en especial con los padres, son una parte fundamental para los jóvenes en formación para brindarles seguridad y valores éticos.
+6. How: Se empezará con un cierto público de prueba para tener en cuenta las opiniones de los consumidores y especialistas.
+7. How much: La aplicación será gratuita para el público, con algunos beneficios de pago extra.
+
+1. What: La aplicación ayudará a los jóvenes y padres para mejorar su relación y lazos interpersonales.
+2. When: La aplicación se usará en momentos donde se pueda denotar la poca comunicación e interacción que existe entre los padres e hijos.
+3. Where: Esto puede suceder en los hogares para beneficiar el rendimiento en la escuela, universidad o trabajo.
+4. Who: Padres, primerizos o maduros, jóvenes estudiantes de colegio y universitarios
+5. Why: Los lazos familiares, en especial con los padres, son una parte fundamental para los jóvenes en formación para brindarles seguridad y valores éticos.
+6. How: Se empezará con un cierto público de prueba para tener en cuenta las opiniones de los consumidores y especialistas.
+7. How much: La aplicación será gratuita para el público, con algunos beneficios de pago extra.
+
+1. What: La aplicación ayudará a los jóvenes y padres para mejorar su relación y lazos interpersonales.
+2. When: La aplicación se usará en momentos donde se pueda denotar la poca comunicación e interacción que existe entre los padres e hijos.
+3. Where: Esto puede suceder en los hogares para beneficiar el rendimiento en la escuela, universidad o trabajo.
+4. Who: Padres, primerizos o maduros, jóvenes estudiantes de colegio y universitarios
+5. Why: Los lazos familiares, en especial con los padres, son una parte fundamental para los jóvenes en formación para brindarles seguridad y valores éticos.
+6. How: Se empezará con un cierto público de prueba para tener en cuenta las opiniones de los consumidores y especialistas.
+7. How much: La aplicación será gratuita para el público, con algunos beneficios de pago extra.
+
+1. What: La aplicación ayudará a los jóvenes y padres para mejorar su relación y lazos interpersonales.
+2. When: La aplicación se usará en momentos donde se pueda denotar la poca comunicación e interacción que existe entre los padres e hijos.
+3. Where: Esto puede suceder en los hogares para beneficiar el rendimiento en la escuela, universidad o trabajo.
+4. Who: Padres, primerizos o maduros, jóvenes estudiantes de colegio y universitarios
+5. Why: Los lazos familiares, en especial con los padres, son una parte fundamental para los jóvenes en formación para brindarles seguridad y valores éticos.
+6. How: Se empezará con un cierto público de prueba para tener en cuenta las opiniones de los consumidores y especialistas.
+7. How much: La aplicación será gratuita para el público, con algunos beneficios de pago extra.
+
+1. What: La aplicación ayudará a los jóvenes y padres para mejorar su relación y lazos interpersonales.
+2. When: La aplicación se usará en momentos donde se pueda denotar la poca comunicación e interacción que existe entre los padres e hijos.
+3. Where: Esto puede suceder en los hogares para beneficiar el rendimiento en la escuela, universidad o trabajo.
+4. Who: Padres, primerizos o maduros, jóvenes estudiantes de colegio y universitarios
+5. Why: Los lazos familiares, en especial con los padres, son una parte fundamental para los jóvenes en formación para brindarles seguridad y valores éticos.
+6. How: Se empezará con un cierto público de prueba para tener en cuenta las opiniones de los consumidores y especialistas.
+7. How much: La aplicación será gratuita para el público, con algunos beneficios de pago extra.
+
+1. What: La aplicación ayudará a los jóvenes y padres para mejorar su relación y lazos interpersonales.
+2. When: La aplicación se usará en momentos donde se pueda denotar la poca comunicación e interacción que existe entre los padres e hijos.
+3. Where: Esto puede suceder en los hogares para beneficiar el rendimiento en la escuela, universidad o trabajo.
+4. Who: Padres, primerizos o maduros, jóvenes estudiantes de colegio y universitarios
+5. Why: Los lazos familiares, en especial con los padres, son una parte fundamental para los jóvenes en formación para brindarles seguridad y valores éticos.
+6. How: Se empezará con un cierto público de prueba para tener en cuenta las opiniones de los consumidores y especialistas.
+7. How much: La aplicación será gratuita para el público, con algunos beneficios de pago extra.
+
+1. What: La aplicación ayudará a los jóvenes y padres para mejorar su relación y lazos interpersonales.
+2. When: La aplicación se usará en momentos donde se pueda denotar la poca comunicación e interacción que existe entre los padres e hijos.
+3. Where: Esto puede suceder en los hogares para beneficiar el rendimiento en la escuela, universidad o trabajo.
+4. Who: Padres, primerizos o maduros, jóvenes estudiantes de colegio y universitarios
+5. Why: Los lazos familiares, en especial con los padres, son una parte fundamental para los jóvenes en formación para brindarles seguridad y valores éticos.
+6. How: Se empezará con un cierto público de prueba para tener en cuenta las opiniones de los consumidores y especialistas.
+7. How much: La aplicación será gratuita para el público, con algunos beneficios de pago extra.
+
+1. What: La aplicación ayudará a los jóvenes y padres para mejorar su relación y lazos interpersonales.
+2. When: La aplicación se usará en momentos donde se pueda denotar la poca comunicación e interacción que existe entre los padres e hijos.
+3. Where: Esto puede suceder en los hogares para beneficiar el rendimiento en la escuela, universidad o trabajo.
+4. Who: Padres, primerizos o maduros, jóvenes estudiantes de colegio y universitarios
+5. Why: Los lazos familiares, en especial con los padres, son una parte fundamental para los jóvenes en formación para brindarles seguridad y valores éticos.
+6. How: Se empezará con un cierto público de prueba para tener en cuenta las opiniones de los consumidores y especialistas.
+7. How much: La aplicación será gratuita para el público, con algunos beneficios de pago extra.
+
+1. What: La aplicación ayudará a los jóvenes y padres para mejorar su relación y lazos interpersonales.
+2. When: La aplicación se usará en momentos donde se pueda denotar la poca comunicación e interacción que existe entre los padres e hijos.
+3. Where: Esto puede suceder en los hogares para beneficiar el rendimiento en la escuela, universidad o trabajo.
+4. Who: Padres, primerizos o maduros, jóvenes estudiantes de colegio y universitarios
+5. Why: Los lazos familiares, en especial con los padres, son una parte fundamental para los jóvenes en formación para brindarles seguridad y valores éticos.
+6. How: Se empezará con un cierto público de prueba para tener en cuenta las opiniones de los consumidores y especialistas.
+7. How much: La aplicación será gratuita para el público, con algunos beneficios de pago extra.
+
+1. What: La aplicación ayudará a los jóvenes y padres para mejorar su relación y lazos interpersonales.
+2. When: La aplicación se usará en momentos donde se pueda denotar la poca comunicación e interacción que existe entre los padres e hijos.
+3. Where: Esto puede suceder en los hogares para beneficiar el rendimiento en la escuela, universidad o trabajo.
+4. Who: Padres, primerizos o maduros, jóvenes estudiantes de colegio y universitarios
+5. Why: Los lazos familiares, en especial con los padres, son una parte fundamental para los jóvenes en formación para brindarles seguridad y valores éticos.
+6. How: Se empezará con un cierto público de prueba para tener en cuenta las opiniones de los consumidores y especialistas.
+7. How much: La aplicación será gratuita para el público, con algunos beneficios de pago extra.
+
+1. What: La aplicación ayudará a los jóvenes y padres para mejorar su relación y lazos interpersonales.
+2. When: La aplicación se usará en momentos donde se pueda denotar la poca comunicación e interacción que existe entre los padres e hijos.
+3. Where: Esto puede suceder en los hogares para beneficiar el rendimiento en la escuela, universidad o trabajo.
+4. Who: Padres, primerizos o maduros, jóvenes estudiantes de colegio y universitarios
+5. Why: Los lazos familiares, en especial con los padres, son una parte fundamental para los jóvenes en formación para brindarles seguridad y valores éticos.
+6. How: Se empezará con un cierto público de prueba para tener en cuenta las opiniones de los consumidores y especialistas.
+7. How much: La aplicación será gratuita para el público, con algunos beneficios de pago extra.
+
+1. What: La aplicación ayudará a los jóvenes y padres para mejorar su relación y lazos interpersonales.
+2. When: La aplicación se usará en momentos donde se pueda denotar la poca comunicación e interacción que existe entre los padres e hijos.
+3. Where: Esto puede suceder en los hogares para beneficiar el rendimiento en la escuela, universidad o trabajo.
+4. Who: Padres, primerizos o maduros, jóvenes estudiantes de colegio y universitarios
+5. Why: Los lazos familiares, en especial con los padres, son una parte fundamental para los jóvenes en formación para brindarles seguridad y valores éticos.
+6. How: Se empezará con un cierto público de prueba para tener en cuenta las opiniones de los consumidores y especialistas.
+7. How much: La aplicación será gratuita para el público, con algunos beneficios de pago extra.
+
+1. What: La aplicación ayudará a los jóvenes y padres para mejorar su relación y lazos interpersonales.
+2. When: La aplicación se usará en momentos donde se pueda denotar la poca comunicación e interacción que existe entre los padres e hijos.
+3. Where: Esto puede suceder en los hogares para beneficiar el rendimiento en la escuela, universidad o trabajo.
+4. Who: Padres, primerizos o maduros, jóvenes estudiantes de colegio y universitarios
+5. Why: Los lazos familiares, en especial con los padres, son una parte fundamental para los jóvenes en formación para brindarles seguridad y valores éticos.
+6. How: Se empezará con un cierto público de prueba para tener en cuenta las opiniones de los consumidores y especialistas.
+7. How much: La aplicación será gratuita para el público, con algunos beneficios de pago extra.
+
+1. What: La aplicación ayudará a los jóvenes y padres para mejorar su relación y lazos interpersonales.
+2. When: La aplicación se usará en momentos donde se pueda denotar la poca comunicación e interacción que existe entre los padres e hijos.
+3. Where: Esto puede suceder en los hogares para beneficiar el rendimiento en la escuela, universidad o trabajo.
+4. Who: Padres, primerizos o maduros, jóvenes estudiantes de colegio y universitarios
+5. Why: Los lazos familiares, en especial con los padres, son una parte fundamental para los jóvenes en formación para brindarles seguridad y valores éticos.
+6. How: Se empezará con un cierto público de prueba para tener en cuenta las opiniones de los consumidores y especialistas.
+7. How much: La aplicación será gratuita para el público, con algunos beneficios de pago extra.
+
+1. What: La aplicación ayudará a los jóvenes y padres para mejorar su relación y lazos interpersonales.
+2. When: La aplicación se usará en momentos donde se pueda denotar la poca comunicación e interacción que existe entre los padres e hijos.
+3. Where: Esto puede suceder en los hogares para beneficiar el rendimiento en la escuela, universidad o trabajo.
+4. Who: Padres, primerizos o maduros, jóvenes estudiantes de colegio y universitarios
+5. Why: Los lazos familiares, en especial con los padres, son una parte fundamental para los jóvenes en formación para brindarles seguridad y valores éticos.
+6. How: Se empezará con un cierto público de prueba para tener en cuenta las opiniones de los consumidores y especialistas.
+7. How much: La aplicación será gratuita para el público, con algunos beneficios de pago extra.
+
+1. What: La aplicación ayudará a los jóvenes y padres para mejorar su relación y lazos interpersonales.
+2. When: La aplicación se usará en momentos donde se pueda denotar la poca comunicación e interacción que existe entre los padres e hijos.
+3. Where: Esto puede suceder en los hogares para beneficiar el rendimiento en la escuela, universidad o trabajo.
+4. Who: Padres, primerizos o maduros, jóvenes estudiantes de colegio y universitarios
+5. Why: Los lazos familiares, en especial con los padres, son una parte fundamental para los jóvenes en formación para brindarles seguridad y valores éticos.
+6. How: Se empezará con un cierto público de prueba para tener en cuenta las opiniones de los consumidores y especialistas.
+7. How much: La aplicación será gratuita para el público, con algunos beneficios de pago extra.
+
+1. What: La aplicación ayudará a los jóvenes y padres para mejorar su relación y lazos interpersonales.
+2. When: La aplicación se usará en momentos donde se pueda denotar la poca comunicación e interacción que existe entre los padres e hijos.
+3. Where: Esto puede suceder en los hogares para beneficiar el rendimiento en la escuela, universidad o trabajo.
+4. Who: Padres, primerizos o maduros, jóvenes estudiantes de colegio y universitarios
+5. Why: Los lazos familiares, en especial con los padres, son una parte fundamental para los jóvenes en formación para brindarles seguridad y valores éticos.
+6. How: Se empezará con un cierto público de prueba para tener en cuenta las opiniones de los consumidores y especialistas.
+7. How much: La aplicación será gratuita para el público, con algunos beneficios de pago extra.
+
+1. What: La aplicación ayudará a los jóvenes y padres para mejorar su relación y lazos interpersonales.
+2. When: La aplicación se usará en momentos donde se pueda denotar la poca comunicación e interacción que existe entre los padres e hijos.
+3. Where: Esto puede suceder en los hogares para beneficiar el rendimiento en la escuela, universidad o trabajo.
+4. Who: Padres, primerizos o maduros, jóvenes estudiantes de colegio y universitarios
+5. Why: Los lazos familiares, en especial con los padres, son una parte fundamental para los jóvenes en formación para brindarles seguridad y valores éticos.
+6. How: Se empezará con un cierto público de prueba para tener en cuenta las opiniones de los consumidores y especialistas.
+7. How much: La aplicación será gratuita para el público, con algunos beneficios de pago extra.
+
+1. What: La aplicación ayudará a los jóvenes y padres para mejorar su relación y lazos interpersonales.
+2. When: La aplicación se usará en momentos donde se pueda denotar la poca comunicación e interacción que existe entre los padres e hijos.
+3. Where: Esto puede suceder en los hogares para beneficiar el rendimiento en la escuela, universidad o trabajo.
+4. Who: Padres, primerizos o maduros, jóvenes estudiantes de colegio y universitarios
+5. Why: Los lazos familiares, en especial con los padres, son una parte fundamental para los jóvenes en formación para brindarles seguridad y valores éticos.
+6. How: Se empezará con un cierto público de prueba para tener en cuenta las opiniones de los consumidores y especialistas.
+7. How much: La aplicación será gratuita para el público, con algunos beneficios de pago extra.
+
+1. What: La aplicación ayudará a los jóvenes y padres para mejorar su relación y lazos interpersonales.
+2. When: La aplicación se usará en momentos donde se pueda denotar la poca comunicación e interacción que existe entre los padres e hijos.
+3. Where: Esto puede suceder en los hogares para beneficiar el rendimiento en la escuela, universidad o trabajo.
+4. Who: Padres, primerizos o maduros, jóvenes estudiantes de colegio y universitarios
+5. Why: Los lazos familiares, en especial con los padres, son una parte fundamental para los jóvenes en formación para brindarles seguridad y valores éticos.
+6. How: Se empezará con un cierto público de prueba para tener en cuenta las opiniones de los consumidores y especialistas.
+7. How much: La aplicación será gratuita para el público, con algunos beneficios de pago extra.
+
+1. What: La aplicación ayudará a los jóvenes y padres para mejorar su relación y lazos interpersonales.
+2. When: La aplicación se usará en momentos donde se pueda denotar la poca comunicación e interacción que existe entre los padres e hijos.
+3. Where: Esto puede suceder en los hogares para beneficiar el rendimiento en la escuela, universidad o trabajo.
+4. Who: Padres, primerizos o maduros, jóvenes estudiantes de colegio y universitarios
+5. Why: Los lazos familiares, en especial con los padres, son una parte fundamental para los jóvenes en formación para brindarles seguridad y valores éticos.
+6. How: Se empezará con un cierto público de prueba para tener en cuenta las opiniones de los consumidores y especialistas.
+7. How much: La aplicación será gratuita para el público, con algunos beneficios de pago extra.
+
+1. What: La aplicación ayudará a los jóvenes y padres para mejorar su relación y lazos interpersonales.
+2. When: La aplicación se usará en momentos donde se pueda denotar la poca comunicación e interacción que existe entre los padres e hijos.
+3. Where: Esto puede suceder en los hogares para beneficiar el rendimiento en la escuela, universidad o trabajo.
+4. Who: Padres, primerizos o maduros, jóvenes estudiantes de colegio y universitarios
+5. Why: Los lazos familiares, en especial con los padres, son una parte fundamental para los jóvenes en formación para brindarles seguridad y valores éticos.
+6. How: Se empezará con un cierto público de prueba para tener en cuenta las opiniones de los consumidores y especialistas.
+7. How much: La aplicación será gratuita para el público, con algunos beneficios de pago extra.
+
+1. What: La aplicación ayudará a los jóvenes y padres para mejorar su relación y lazos interpersonales.
+2. When: La aplicación se usará en momentos donde se pueda denotar la poca comunicación e interacción que existe entre los padres e hijos.
+3. Where: Esto puede suceder en los hogares para beneficiar el rendimiento en la escuela, universidad o trabajo.
+4. Who: Padres, primerizos o maduros, jóvenes estudiantes de colegio y universitarios
+5. Why: Los lazos familiares, en especial con los padres, son una parte fundamental para los jóvenes en formación para brindarles seguridad y valores éticos.
+6. How: Se empezará con un cierto público de prueba para tener en cuenta las opiniones de los consumidores y especialistas.
+7. How much: La aplicación será gratuita para el público, con algunos beneficios de pago extra.
+
+1. What: La aplicación ayudará a los jóvenes y padres para mejorar su relación y lazos interpersonales.
+2. When: La aplicación se usará en momentos donde se pueda denotar la poca comunicación e interacción que existe entre los padres e hijos.
+3. Where: Esto puede suceder en los hogares para beneficiar el rendimiento en la escuela, universidad o trabajo.
+4. Who: Padres, primerizos o maduros, jóvenes estudiantes de colegio y universitarios
+5. Why: Los lazos familiares, en especial con los padres, son una parte fundamental para los jóvenes en formación para brindarles seguridad y valores éticos.
+6. How: Se empezará con un cierto público de prueba para tener en cuenta las opiniones de los consumidores y especialistas.
+7. How much: La aplicación será gratuita para el público, con algunos beneficios de pago extra.
+
+1. What: La aplicación ayudará a los jóvenes y padres para mejorar su relación y lazos interpersonales.
+2. When: La aplicación se usará en momentos donde se pueda denotar la poca comunicación e interacción que existe entre los padres e hijos.
+3. Where: Esto puede suceder en los hogares para beneficiar el rendimiento en la escuela, universidad o trabajo.
+4. Who: Padres, primerizos o maduros, jóvenes estudiantes de colegio y universitarios
+5. Why: Los lazos familiares, en especial con los padres, son una parte fundamental para los jóvenes en formación para brindarles seguridad y valores éticos.
+6. How: Se empezará con un cierto público de prueba para tener en cuenta las opiniones de los consumidores y especialistas.
+7. How much: La aplicación será gratuita para el público, con algunos beneficios de pago extra.
+
+1. What: La aplicación ayudará a los jóvenes y padres para mejorar su relación y lazos interpersonales.
+2. When: La aplicación se usará en momentos donde se pueda denotar la poca comunicación e interacción que existe entre los padres e hijos.
+3. Where: Esto puede suceder en los hogares para beneficiar el rendimiento en la escuela, universidad o trabajo.
+4. Who: Padres, primerizos o maduros, jóvenes estudiantes de colegio y universitarios
+5. Why: Los lazos familiares, en especial con los padres, son una parte fundamental para los jóvenes en formación para brindarles seguridad y valores éticos.
+6. How: Se empezará con un cierto público de prueba para tener en cuenta las opiniones de los consumidores y especialistas.
+7. How much: La aplicación será gratuita para el público, con algunos beneficios de pago extra.
+
+1. What: La aplicación ayudará a los jóvenes y padres para mejorar su relación y lazos interpersonales.
+2. When: La aplicación se usará en momentos donde se pueda denotar la poca comunicación e interacción que existe entre los padres e hijos.
+3. Where: Esto puede suceder en los hogares para beneficiar el rendimiento en la escuela, universidad o trabajo.
+4. Who: Padres, primerizos o maduros, jóvenes estudiantes de colegio y universitarios
+5. Why: Los lazos familiares, en especial con los padres, son una parte fundamental para los jóvenes en formación para brindarles seguridad y valores éticos.
+6. How: Se empezará con un cierto público de prueba para tener en cuenta las opiniones de los consumidores y especialistas.
+7. How much: La aplicación será gratuita para el público, con algunos beneficios de pago extra.
+
+1. What: La aplicación ayudará a los jóvenes y padres para mejorar su relación y lazos interpersonales.
+2. When: La aplicación se usará en momentos donde se pueda denotar la poca comunicación e interacción que existe entre los padres e hijos.
+3. Where: Esto puede suceder en los hogares para beneficiar el rendimiento en la escuela, universidad o trabajo.
+4. Who: Padres, primerizos o maduros, jóvenes estudiantes de colegio y universitarios
+5. Why: Los lazos familiares, en especial con los padres, son una parte fundamental para los jóvenes en formación para brindarles seguridad y valores éticos.
+6. How: Se empezará con un cierto público de prueba para tener en cuenta las opiniones de los consumidores y especialistas.
+7. How much: La aplicación será gratuita para el público, con algunos beneficios de pago extra.
+
+1. What: La aplicación ayudará a los jóvenes y padres para mejorar su relación y lazos interpersonales.
+2. When: La aplicación se usará en momentos donde se pueda denotar la poca comunicación e interacción que existe entre los padres e hijos.
+3. Where: Esto puede suceder en los hogares para beneficiar el rendimiento en la escuela, universidad o trabajo.
+4. Who: Padres, primerizos o maduros, jóvenes estudiantes de colegio y universitarios
+5. Why: Los lazos familiares, en especial con los padres, son una parte fundamental para los jóvenes en formación para brindarles seguridad y valores éticos.
+6. How: Se empezará con un cierto público de prueba para tener en cuenta las opiniones de los consumidores y especialistas.
+7. How much: La aplicación será gratuita para el público, con algunos beneficios de pago extra.
+
+1. What: La aplicación ayudará a los jóvenes y padres para mejorar su relación y lazos interpersonales.
+2. When: La aplicación se usará en momentos donde se pueda denotar la poca comunicación e interacción que existe entre los padres e hijos.
+3. Where: Esto puede suceder en los hogares para beneficiar el rendimiento en la escuela, universidad o trabajo.
+4. Who: Padres, primerizos o maduros, jóvenes estudiantes de colegio y universitarios
+5. Why: Los lazos familiares, en especial con los padres, son una parte fundamental para los jóvenes en formación para brindarles seguridad y valores éticos.
+6. How: Se empezará con un cierto público de prueba para tener en cuenta las opiniones de los consumidores y especialistas.
+7. How much: La aplicación será gratuita para el público, con algunos beneficios de pago extra.
+
+1. What: La aplicación ayudará a los jóvenes y padres para mejorar su relación y lazos interpersonales.
+2. When: La aplicación se usará en momentos donde se pueda denotar la poca comunicación e interacción que existe entre los padres e hijos.
+3. Where: Esto puede suceder en los hogares para beneficiar el rendimiento en la escuela, universidad o trabajo.
+4. Who: Padres, primerizos o maduros, jóvenes estudiantes de colegio y universitarios
+5. Why: Los lazos familiares, en especial con los padres, son una parte fundamental para los jóvenes en formación para brindarles seguridad y valores éticos.
+6. How: Se empezará con un cierto público de prueba para tener en cuenta las opiniones de los consumidores y especialistas.
+7. How much: La aplicación será gratuita para el público, con algunos beneficios de pago extra.
+
+1. What: La aplicación ayudará a los jóvenes y padres para mejorar su relación y lazos interpersonales.
+2. When: La aplicación se usará en momentos donde se pueda denotar la poca comunicación e interacción que existe entre los padres e hijos.
+3. Where: Esto puede suceder en los hogares para beneficiar el rendimiento en la escuela, universidad o trabajo.
+4. Who: Padres, primerizos o maduros, jóvenes estudiantes de colegio y universitarios
+5. Why: Los lazos familiares, en especial con los padres, son una parte fundamental para los jóvenes en formación para brindarles seguridad y valores éticos.
+6. How: Se empezará con un cierto público de prueba para tener en cuenta las opiniones de los consumidores y especialistas.
+7. How much: La aplicación será gratuita para el público, con algunos beneficios de pago extra.
+
+1. What: La aplicación ayudará a los jóvenes y padres para mejorar su relación y lazos interpersonales.
+2. When: La aplicación se usará en momentos donde se pueda denotar la poca comunicación e interacción que existe entre los padres e hijos.
+3. Where: Esto puede suceder en los hogares para beneficiar el rendimiento en la escuela, universidad o trabajo.
+4. Who: Padres, primerizos o maduros, jóvenes estudiantes de colegio y universitarios
+5. Why: Los lazos familiares, en especial con los padres, son una parte fundamental para los jóvenes en formación para brindarles seguridad y valores éticos.
+6. How: Se empezará con un cierto público de prueba para tener en cuenta las opiniones de los consumidores y especialistas.
+7. How much: La aplicación será gratuita para el público, con algunos beneficios de pago extra.
+
+1. What: La aplicación ayudará a los jóvenes y padres para mejorar su relación y lazos interpersonales.
+2. When: La aplicación se usará en momentos donde se pueda denotar la poca comunicación e interacción que existe entre los padres e hijos.
+3. Where: Esto puede suceder en los hogares para beneficiar el rendimiento en la escuela, universidad o trabajo.
+4. Who: Padres, primerizos o maduros, jóvenes estudiantes de colegio y universitarios
+5. Why: Los lazos familiares, en especial con los padres, son una parte fundamental para los jóvenes en formación para brindarles seguridad y valores éticos.
+6. How: Se empezará con un cierto público de prueba para tener en cuenta las opiniones de los consumidores y especialistas.
+7. How much: La aplicación será gratuita para el público, con algunos beneficios de pago extra.
+
+1. What: La aplicación ayudará a los jóvenes y padres para mejorar su relación y lazos interpersonales.
+2. When: La aplicación se usará en momentos donde se pueda denotar la poca comunicación e interacción que existe entre los padres e hijos.
+3. Where: Esto puede suceder en los hogares para beneficiar el rendimiento en la escuela, universidad o trabajo.
+4. Who: Padres, primerizos o maduros, jóvenes estudiantes de colegio y universitarios
+5. Why: Los lazos familiares, en especial con los padres, son una parte fundamental para los jóvenes en formación para brindarles seguridad y valores éticos.
+6. How: Se empezará con un cierto público de prueba para tener en cuenta las opiniones de los consumidores y especialistas.
+7. How much: La aplicación será gratuita para el público, con algunos beneficios de pago extra.
+
+1. What: La aplicación ayudará a los jóvenes y padres para mejorar su relación y lazos interpersonales.
+2. When: La aplicación se usará en momentos donde se pueda denotar la poca comunicación e interacción que existe entre los padres e hijos.
+3. Where: Esto puede suceder en los hogares para beneficiar el rendimiento en la escuela, universidad o trabajo.
+4. Who: Padres, primerizos o maduros, jóvenes estudiantes de colegio y universitarios
+5. Why: Los lazos familiares, en especial con los padres, son una parte fundamental para los jóvenes en formación para brindarles seguridad y valores éticos.
+6. How: Se empezará con un cierto público de prueba para tener en cuenta las opiniones de los consumidores y especialistas.
+7. How much: La aplicación será gratuita para el público, con algunos beneficios de pago extra.
+
+
